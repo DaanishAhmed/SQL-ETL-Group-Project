@@ -1,0 +1,501 @@
+Month,Region,Customer_ID,Product,Per-Unit Price,Quantity_1,Quantity_2
+6,Southeast,643,Purple Pain,365,36,8
+4,Western,960,Orange Creepies,466,9,0
+3,Midwest,976,Yellow Zonkers,253,46,2
+11,Eastern,163,Blue Rock Candy,489,30,9
+5,Midwest,638,Orange Creepies,466,21,1
+3,Western,792,Nap Be Gone,427,2,4
+3,Eastern,157,Grey Gummies,399,9,6
+2,Eastern,927,Red Hot Chili Peppers,434,20,0
+8,Eastern,658,Red Hot Chili Peppers,434,10,1
+10,Eastern,757,Pink Bubble Gum,318,22,2
+9,Western,166,Giant Gummies,428,20,2
+7,Western,196,Nap Be Gone,427,50,6
+1,Eastern,916,Green Lightning,398,14,2
+10,Western,602,Crocodile Tears,293,46,9
+12,Southeast,594,Panda Gummies,149,2,2
+7,Western,875,Blue Rock Candy,489,14,3
+8,Eastern,699,Orange Creepies,466,6,1
+11,Western,150,Crocodile Tears,293,18,2
+11,Southeast,988,Blue Rock Candy,489,18,5
+8,Western,884,Red Hot Chili Peppers,434,27,7
+5,Eastern,215,Panda Gummies,149,41,5
+10,Western,810,Green Lightning,398,26,3
+3,Southeast,904,Orange Creepies,466,50,0
+8,Western,339,Red Hot Chili Peppers,434,29,6
+4,Western,770,Purple Pain,365,44,3
+3,Midwest,600,Grey Gummies,399,47,2
+4,Southeast,568,Yellow Zonkers,253,11,10
+8,Midwest,665,Blue Rock Candy,489,48,8
+9,Eastern,400,Pink Bubble Gum,318,45,9
+11,Midwest,461,Green Lightning,398,5,2
+9,Western,372,Green Lightning,398,7,10
+10,Western,596,Nap Be Gone,427,28,5
+8,Southeast,518,Red Hot Chili Peppers,434,2,0
+11,Midwest,335,Panda Gummies,149,16,6
+1,Midwest,692,Pink Bubble Gum,318,32,9
+4,Southeast,178,Orange Creepies,466,37,2
+6,Western,370,Grey Gummies,399,2,1
+11,Midwest,989,Nap Be Gone,427,25,1
+9,Eastern,957,Grey Gummies,399,46,7
+2,Midwest,479,Crocodile Tears,293,4,7
+7,Southeast,268,Panda Gummies,149,41,10
+5,Midwest,506,Panda Gummies,149,38,9
+3,Western,896,Pink Bubble Gum,318,48,5
+11,Eastern,100,Crocodile Tears,293,33,7
+4,Southeast,132,Red Hot Chili Peppers,434,9,9
+5,Southeast,330,Blue Rock Candy,489,35,7
+7,Eastern,199,Panda Gummies,149,28,6
+10,Southeast,826,Grey Gummies,399,28,10
+5,Southeast,894,Giant Gummies,428,49,7
+9,Eastern,200,Green Lightning,398,44,3
+12,Eastern,447,Purple Pain,365,16,7
+2,Midwest,883,Orange Creepies,466,40,3
+9,Eastern,275,Crocodile Tears,293,32,5
+9,Western,615,Blue Rock Candy,489,21,0
+5,Southeast,735,Yellow Zonkers,253,50,2
+8,Eastern,824,Blue Rock Candy,489,11,4
+5,Western,996,Pink Bubble Gum,318,4,8
+7,Western,872,Panda Gummies,149,48,3
+8,Western,886,Yellow Zonkers,253,26,2
+12,Western,762,Crocodile Tears,293,1,5
+7,Eastern,187,Nap Be Gone,427,0,9
+1,Western,671,Panda Gummies,149,8,5
+7,Western,771,Red Hot Chili Peppers,434,7,9
+2,Eastern,425,Red Hot Chili Peppers,434,3,10
+7,Western,488,Purple Pain,365,19,9
+9,Southeast,171,Crocodile Tears,293,29,10
+1,Western,943,Nap Be Gone,427,33,2
+9,Eastern,810,Blue Rock Candy,489,44,6
+12,Western,745,Purple Pain,365,24,10
+6,Eastern,826,Red Hot Chili Peppers,434,6,5
+6,Western,460,Crocodile Tears,293,2,5
+9,Eastern,263,Nap Be Gone,427,42,7
+10,Midwest,441,Purple Pain,365,16,1
+3,Midwest,518,Red Hot Chili Peppers,434,44,10
+9,Eastern,673,Yellow Zonkers,253,12,0
+1,Western,631,Nap Be Gone,427,5,9
+8,Western,405,Grey Gummies,399,46,2
+9,Eastern,852,Purple Pain,365,19,8
+3,Eastern,613,Grey Gummies,399,21,10
+2,Western,954,Blue Rock Candy,489,24,8
+12,Eastern,243,Purple Pain,365,31,8
+5,Eastern,790,Green Lightning,398,24,4
+7,Midwest,177,Grey Gummies,399,40,5
+2,Eastern,462,Pink Bubble Gum,318,3,3
+5,Eastern,891,Blue Rock Candy,489,30,8
+3,Southeast,788,Orange Creepies,466,38,2
+2,Eastern,624,Giant Gummies,428,36,4
+10,Eastern,442,Pink Bubble Gum,318,32,5
+4,Eastern,372,Yellow Zonkers,253,44,4
+2,Western,299,Crocodile Tears,293,17,7
+11,Eastern,961,Giant Gummies,428,20,2
+12,Eastern,980,Panda Gummies,149,23,10
+10,Western,839,Green Lightning,398,12,5
+2,Southeast,396,Pink Bubble Gum,318,17,10
+12,Eastern,800,Crocodile Tears,293,36,10
+6,Western,183,Crocodile Tears,293,45,4
+8,Midwest,186,Grey Gummies,399,48,0
+4,Eastern,107,Yellow Zonkers,253,23,2
+8,Midwest,836,Panda Gummies,149,24,1
+12,Midwest,451,Red Hot Chili Peppers,434,32,2
+2,Eastern,875,Red Hot Chili Peppers,434,32,10
+5,Midwest,152,Pink Bubble Gum,318,19,6
+10,Southeast,230,Blue Rock Candy,489,15,9
+7,Midwest,337,Grey Gummies,399,47,1
+9,Southeast,819,Orange Creepies,466,35,3
+3,Southeast,140,Yellow Zonkers,253,29,4
+6,Midwest,779,Red Hot Chili Peppers,434,3,5
+3,Midwest,742,Green Lightning,398,20,4
+6,Eastern,562,Red Hot Chili Peppers,434,30,7
+5,Western,881,Grey Gummies,399,12,3
+12,Southeast,135,Giant Gummies,428,2,9
+10,Western,754,Giant Gummies,428,38,5
+3,Western,736,Grey Gummies,399,27,2
+8,Eastern,772,Panda Gummies,149,15,6
+11,Western,428,Red Hot Chili Peppers,434,48,4
+9,Eastern,793,Green Lightning,398,18,3
+11,Eastern,141,Red Hot Chili Peppers,434,43,9
+11,Midwest,393,Panda Gummies,149,25,9
+1,Eastern,982,Pink Bubble Gum,318,11,2
+2,Eastern,546,Crocodile Tears,293,39,4
+12,Midwest,733,Orange Creepies,466,14,10
+3,Eastern,483,Giant Gummies,428,37,5
+1,Eastern,469,Yellow Zonkers,253,30,2
+1,Eastern,978,Green Lightning,398,46,2
+12,Western,939,Crocodile Tears,293,45,8
+1,Eastern,423,Green Lightning,398,32,3
+5,Western,717,Giant Gummies,428,34,9
+6,Southeast,383,Orange Creepies,466,39,7
+6,Western,750,Panda Gummies,149,3,3
+10,Midwest,231,Grey Gummies,399,19,7
+4,Eastern,555,Orange Creepies,466,6,3
+11,Western,663,Pink Bubble Gum,318,44,8
+9,Eastern,549,Grey Gummies,399,6,1
+4,Western,293,Yellow Zonkers,253,29,1
+1,Western,790,Grey Gummies,399,4,2
+8,Eastern,196,Green Lightning,398,15,5
+3,Eastern,214,Giant Gummies,428,32,4
+11,Western,652,Green Lightning,398,27,0
+10,Midwest,271,Panda Gummies,149,12,10
+8,Western,487,Giant Gummies,428,9,8
+3,Midwest,212,Crocodile Tears,293,45,6
+7,Eastern,110,Purple Pain,365,12,6
+4,Eastern,184,Grey Gummies,399,41,10
+8,Midwest,898,Red Hot Chili Peppers,434,0,2
+4,Eastern,578,Green Lightning,398,16,3
+9,Midwest,710,Purple Pain,365,25,4
+9,Midwest,799,Crocodile Tears,293,15,7
+6,Southeast,666,Pink Bubble Gum,318,29,9
+2,Midwest,428,Giant Gummies,428,27,0
+5,Western,264,Giant Gummies,428,39,5
+2,Eastern,224,Giant Gummies,428,23,3
+12,Western,985,Purple Pain,365,4,10
+7,Eastern,360,Panda Gummies,149,5,4
+11,Eastern,217,Giant Gummies,428,5,10
+8,Eastern,665,Giant Gummies,428,36,6
+5,Eastern,230,Yellow Zonkers,253,35,6
+10,Southeast,939,Yellow Zonkers,253,38,5
+10,Eastern,996,Yellow Zonkers,253,47,1
+4,Eastern,823,Blue Rock Candy,489,8,7
+11,Southeast,412,Red Hot Chili Peppers,434,33,1
+6,Midwest,160,Nap Be Gone,427,22,7
+1,Midwest,673,Orange Creepies,466,47,7
+10,Eastern,184,Green Lightning,398,9,3
+10,Eastern,698,Orange Creepies,466,5,8
+1,Eastern,900,Giant Gummies,428,47,8
+3,Western,356,Purple Pain,365,0,4
+5,Midwest,476,Giant Gummies,428,21,7
+6,Eastern,882,Panda Gummies,149,35,10
+8,Eastern,449,Orange Creepies,466,14,7
+7,Eastern,371,Green Lightning,398,43,3
+6,Midwest,478,Panda Gummies,149,23,7
+4,Western,427,Panda Gummies,149,4,4
+10,Western,189,Purple Pain,365,14,6
+2,Midwest,412,Green Lightning,398,13,9
+9,Western,600,Purple Pain,365,23,5
+6,Midwest,891,Blue Rock Candy,489,35,9
+11,Eastern,743,Nap Be Gone,427,15,2
+2,Midwest,794,Purple Pain,365,10,10
+6,Western,234,Grey Gummies,399,1,6
+6,Western,455,Giant Gummies,428,28,9
+9,Eastern,305,Orange Creepies,466,25,5
+5,Western,993,Orange Creepies,466,3,9
+9,Midwest,702,Purple Pain,365,15,10
+6,Western,433,Yellow Zonkers,253,48,6
+6,Midwest,642,Blue Rock Candy,489,7,2
+6,Midwest,424,Panda Gummies,149,6,4
+5,Midwest,347,Giant Gummies,428,32,6
+11,Western,275,Pink Bubble Gum,318,18,3
+1,Midwest,481,Red Hot Chili Peppers,434,32,4
+11,Eastern,324,Panda Gummies,149,17,5
+1,Western,700,Pink Bubble Gum,318,7,8
+4,Western,860,Grey Gummies,399,37,1
+12,Western,253,Panda Gummies,149,49,6
+2,Western,149,Red Hot Chili Peppers,434,0,4
+9,Midwest,465,Panda Gummies,149,40,0
+11,Eastern,502,Blue Rock Candy,489,47,3
+2,Eastern,995,Grey Gummies,399,45,5
+11,Eastern,333,Giant Gummies,428,31,9
+11,Western,312,Purple Pain,365,14,9
+6,Western,652,Green Lightning,398,9,10
+9,Eastern,362,Grey Gummies,399,27,6
+12,Eastern,688,Nap Be Gone,427,11,9
+7,Eastern,353,Orange Creepies,466,38,0
+5,Eastern,862,Yellow Zonkers,253,23,4
+12,Midwest,574,Orange Creepies,466,6,3
+8,Midwest,601,Red Hot Chili Peppers,434,15,9
+12,Western,829,Yellow Zonkers,253,33,9
+9,Western,480,Crocodile Tears,293,21,6
+5,Eastern,320,Nap Be Gone,427,32,6
+2,Southeast,517,Orange Creepies,466,5,9
+11,Midwest,248,Giant Gummies,428,41,8
+2,Midwest,976,Red Hot Chili Peppers,434,43,8
+2,Southeast,629,Green Lightning,398,32,1
+2,Western,799,Nap Be Gone,427,42,1
+7,Southeast,845,Nap Be Gone,427,11,5
+8,Western,678,Red Hot Chili Peppers,434,28,1
+5,Eastern,122,Orange Creepies,466,38,4
+7,Eastern,241,Giant Gummies,428,46,10
+5,Eastern,710,Orange Creepies,466,19,5
+9,Western,135,Panda Gummies,149,47,1
+12,Western,567,Crocodile Tears,293,15,8
+5,Western,641,Red Hot Chili Peppers,434,36,5
+10,Western,218,Yellow Zonkers,253,15,9
+4,Midwest,204,Green Lightning,398,26,8
+3,Western,689,Green Lightning,398,29,6
+5,Midwest,816,Orange Creepies,466,38,10
+6,Midwest,763,Green Lightning,398,25,6
+8,Midwest,285,Nap Be Gone,427,43,10
+1,Southeast,248,Nap Be Gone,427,12,0
+11,Eastern,292,Crocodile Tears,293,6,9
+5,Western,374,Giant Gummies,428,34,1
+4,Western,560,Purple Pain,365,22,10
+7,Western,429,Giant Gummies,428,2,6
+12,Midwest,490,Orange Creepies,466,38,8
+8,Western,368,Panda Gummies,149,48,1
+2,Eastern,745,Yellow Zonkers,253,6,9
+11,Southeast,232,Grey Gummies,399,16,7
+10,Eastern,583,Purple Pain,365,34,10
+9,Western,749,Pink Bubble Gum,318,48,2
+4,Eastern,989,Red Hot Chili Peppers,434,4,6
+5,Eastern,515,Green Lightning,398,42,10
+8,Midwest,866,Green Lightning,398,38,4
+5,Midwest,339,Grey Gummies,399,33,0
+2,Eastern,673,Yellow Zonkers,253,7,6
+2,Southeast,585,Red Hot Chili Peppers,434,2,1
+4,Eastern,170,Yellow Zonkers,253,34,7
+5,Midwest,520,Red Hot Chili Peppers,434,30,10
+12,Southeast,985,Blue Rock Candy,489,31,1
+11,Midwest,875,Crocodile Tears,293,3,0
+6,Western,516,Nap Be Gone,427,7,7
+1,Midwest,806,Green Lightning,398,3,2
+1,Southeast,435,Pink Bubble Gum,318,20,3
+12,Western,959,Pink Bubble Gum,318,5,1
+9,Western,808,Blue Rock Candy,489,31,6
+9,Southeast,125,Giant Gummies,428,13,10
+11,Western,363,Green Lightning,398,5,8
+5,Eastern,306,Pink Bubble Gum,318,18,0
+12,Western,169,Red Hot Chili Peppers,434,39,0
+10,Midwest,176,Pink Bubble Gum,318,9,5
+3,Southeast,365,Green Lightning,398,49,1
+7,Eastern,622,Purple Pain,365,20,3
+2,Eastern,400,Blue Rock Candy,489,39,10
+12,Southeast,816,Panda Gummies,149,45,7
+2,Midwest,863,Nap Be Gone,427,29,1
+8,Western,755,Nap Be Gone,427,39,3
+1,Midwest,367,Crocodile Tears,293,49,0
+9,Midwest,176,Grey Gummies,399,43,7
+8,Eastern,199,Red Hot Chili Peppers,434,28,5
+11,Eastern,690,Crocodile Tears,293,35,1
+8,Midwest,312,Crocodile Tears,293,19,7
+8,Eastern,761,Purple Pain,365,12,3
+4,Midwest,132,Crocodile Tears,293,34,3
+11,Eastern,979,Blue Rock Candy,489,6,1
+8,Eastern,318,Blue Rock Candy,489,50,10
+4,Midwest,588,Green Lightning,398,11,4
+3,Midwest,744,Grey Gummies,399,1,7
+3,Midwest,617,Red Hot Chili Peppers,434,1,9
+8,Eastern,129,Nap Be Gone,427,12,2
+12,Eastern,165,Red Hot Chili Peppers,434,25,4
+1,Eastern,949,Yellow Zonkers,253,13,6
+6,Midwest,903,Nap Be Gone,427,35,8
+1,Western,597,Red Hot Chili Peppers,434,18,3
+2,Western,122,Orange Creepies,466,23,9
+9,Eastern,610,Pink Bubble Gum,318,27,10
+10,Western,735,Orange Creepies,466,31,8
+2,Eastern,358,Panda Gummies,149,39,10
+8,Midwest,105,Blue Rock Candy,489,37,7
+4,Western,274,Nap Be Gone,427,16,8
+3,Eastern,359,Grey Gummies,399,8,8
+3,Eastern,386,Grey Gummies,399,42,10
+3,Eastern,461,Blue Rock Candy,489,20,7
+6,Midwest,880,Panda Gummies,149,38,1
+1,Southeast,259,Giant Gummies,428,35,10
+2,Southeast,645,Giant Gummies,428,41,2
+12,Western,108,Orange Creepies,466,37,6
+3,Western,337,Nap Be Gone,427,16,6
+2,Eastern,423,Crocodile Tears,293,12,2
+4,Midwest,858,Green Lightning,398,38,6
+2,Midwest,511,Green Lightning,398,4,7
+4,Western,416,Purple Pain,365,35,7
+9,Southeast,704,Orange Creepies,466,42,0
+7,Southeast,893,Panda Gummies,149,34,3
+8,Midwest,273,Giant Gummies,428,34,0
+1,Eastern,353,Grey Gummies,399,12,10
+5,Midwest,405,Purple Pain,365,38,8
+10,Western,929,Red Hot Chili Peppers,434,34,9
+9,Western,477,Orange Creepies,466,46,10
+7,Eastern,182,Panda Gummies,149,2,7
+2,Midwest,143,Crocodile Tears,293,20,4
+11,Western,320,Crocodile Tears,293,47,8
+1,Eastern,260,Pink Bubble Gum,318,5,2
+10,Midwest,246,Panda Gummies,149,0,8
+9,Eastern,563,Nap Be Gone,427,14,10
+9,Southeast,524,Nap Be Gone,427,41,8
+3,Eastern,671,Pink Bubble Gum,318,21,2
+7,Western,404,Red Hot Chili Peppers,434,14,2
+1,Western,897,Purple Pain,365,17,1
+4,Eastern,241,Crocodile Tears,293,24,4
+12,Eastern,610,Pink Bubble Gum,318,8,5
+9,Midwest,663,Yellow Zonkers,253,35,1
+10,Southeast,229,Yellow Zonkers,253,32,2
+12,Southeast,465,Green Lightning,398,15,0
+1,Western,688,Yellow Zonkers,253,22,7
+9,Eastern,638,Nap Be Gone,427,41,10
+12,Midwest,276,Crocodile Tears,293,23,5
+3,Western,804,Purple Pain,365,23,0
+1,Western,632,Nap Be Gone,427,47,8
+12,Eastern,261,Purple Pain,365,10,7
+10,Southeast,682,Nap Be Gone,427,42,0
+12,Western,694,Purple Pain,365,25,2
+1,Eastern,305,Green Lightning,398,28,3
+7,Southeast,111,Pink Bubble Gum,318,46,8
+9,Eastern,648,Grey Gummies,399,18,0
+12,Southeast,807,Giant Gummies,428,3,5
+10,Midwest,305,Red Hot Chili Peppers,434,8,6
+12,Midwest,824,Nap Be Gone,427,21,5
+10,Eastern,792,Yellow Zonkers,253,48,9
+4,Western,221,Green Lightning,398,39,1
+8,Southeast,719,Yellow Zonkers,253,18,6
+4,Western,117,Grey Gummies,399,15,3
+7,Midwest,841,Panda Gummies,149,17,3
+2,Eastern,811,Blue Rock Candy,489,6,8
+2,Southeast,779,Giant Gummies,428,23,5
+9,Western,374,Green Lightning,398,4,0
+2,Midwest,252,Grey Gummies,399,28,9
+3,Midwest,490,Nap Be Gone,427,50,7
+6,Western,981,Panda Gummies,149,40,2
+9,Eastern,219,Green Lightning,398,16,3
+1,Midwest,851,Red Hot Chili Peppers,434,47,1
+7,Southeast,391,Grey Gummies,399,34,5
+3,Western,744,Orange Creepies,466,42,2
+12,Midwest,730,Pink Bubble Gum,318,5,1
+8,Western,473,Yellow Zonkers,253,4,4
+1,Midwest,407,Yellow Zonkers,253,45,8
+11,Western,163,Panda Gummies,149,40,2
+3,Western,397,Green Lightning,398,45,4
+3,Eastern,680,Blue Rock Candy,489,38,0
+7,Midwest,611,Nap Be Gone,427,3,6
+5,Midwest,857,Green Lightning,398,20,4
+3,Midwest,734,Blue Rock Candy,489,43,1
+7,Midwest,121,Red Hot Chili Peppers,434,43,7
+8,Western,630,Panda Gummies,149,18,2
+11,Western,166,Crocodile Tears,293,34,9
+4,Midwest,908,Pink Bubble Gum,318,3,5
+5,Western,737,Green Lightning,398,27,4
+5,Western,745,Grey Gummies,399,33,4
+11,Western,518,Red Hot Chili Peppers,434,50,9
+3,Midwest,153,Purple Pain,365,15,9
+5,Western,347,Grey Gummies,399,0,4
+7,Western,152,Crocodile Tears,293,25,9
+7,Southeast,797,Grey Gummies,399,4,6
+3,Eastern,182,Pink Bubble Gum,318,44,0
+10,Western,138,Blue Rock Candy,489,16,7
+8,Western,937,Giant Gummies,428,24,7
+11,Eastern,538,Giant Gummies,428,50,3
+8,Midwest,570,Pink Bubble Gum,318,13,5
+11,Midwest,310,Grey Gummies,399,48,1
+5,Midwest,807,Yellow Zonkers,253,7,5
+5,Midwest,802,Orange Creepies,466,39,5
+9,Southeast,678,Nap Be Gone,427,9,8
+7,Midwest,835,Giant Gummies,428,5,7
+8,Midwest,269,Blue Rock Candy,489,40,7
+7,Western,991,Nap Be Gone,427,26,10
+11,Western,196,Crocodile Tears,293,45,3
+6,Western,252,Panda Gummies,149,31,2
+5,Eastern,655,Pink Bubble Gum,318,30,1
+7,Eastern,454,Red Hot Chili Peppers,434,36,4
+5,Western,242,Nap Be Gone,427,37,0
+3,Eastern,931,Crocodile Tears,293,13,10
+8,Midwest,396,Panda Gummies,149,42,4
+9,Eastern,819,Panda Gummies,149,10,7
+7,Eastern,296,Nap Be Gone,427,29,6
+1,Midwest,108,Panda Gummies,149,44,0
+2,Eastern,119,Giant Gummies,428,24,10
+8,Midwest,884,Red Hot Chili Peppers,434,41,10
+10,Eastern,514,Grey Gummies,399,36,7
+10,Eastern,306,Grey Gummies,399,50,5
+11,Southeast,670,Grey Gummies,399,21,6
+12,Southeast,819,Green Lightning,398,14,8
+9,Western,814,Blue Rock Candy,489,15,2
+5,Eastern,939,Crocodile Tears,293,48,10
+11,Southeast,617,Yellow Zonkers,253,20,4
+5,Eastern,994,Nap Be Gone,427,26,0
+6,Southeast,728,Green Lightning,398,39,10
+12,Western,353,Purple Pain,365,28,2
+10,Midwest,584,Panda Gummies,149,47,4
+2,Western,356,Grey Gummies,399,46,1
+2,Midwest,193,Red Hot Chili Peppers,434,35,9
+8,Eastern,656,Panda Gummies,149,32,5
+3,Western,930,Giant Gummies,428,40,2
+5,Midwest,474,Yellow Zonkers,253,24,2
+10,Midwest,440,Blue Rock Candy,489,36,9
+4,Western,274,Crocodile Tears,293,24,4
+4,Western,153,Grey Gummies,399,45,0
+11,Western,100,Grey Gummies,399,16,7
+6,Eastern,388,Red Hot Chili Peppers,434,40,3
+2,Western,196,Blue Rock Candy,489,1,0
+6,Western,759,Blue Rock Candy,489,25,2
+6,Eastern,822,Nap Be Gone,427,43,5
+11,Eastern,202,Orange Creepies,466,0,1
+10,Eastern,872,Pink Bubble Gum,318,48,10
+6,Eastern,672,Blue Rock Candy,489,1,3
+1,Southeast,227,Crocodile Tears,293,9,7
+5,Western,691,Orange Creepies,466,20,5
+9,Midwest,280,Orange Creepies,466,26,5
+10,Midwest,726,Panda Gummies,149,45,7
+10,Western,646,Red Hot Chili Peppers,434,4,5
+5,Eastern,550,Green Lightning,398,44,9
+10,Midwest,203,Blue Rock Candy,489,18,1
+12,Midwest,759,Nap Be Gone,427,48,0
+5,Western,819,Green Lightning,398,27,7
+5,Eastern,342,Green Lightning,398,36,8
+7,Western,812,Giant Gummies,428,13,4
+4,Eastern,931,Purple Pain,365,5,2
+7,Southeast,457,Purple Pain,365,4,10
+10,Midwest,681,Pink Bubble Gum,318,39,7
+2,Eastern,103,Green Lightning,398,43,3
+2,Midwest,743,Yellow Zonkers,253,1,6
+5,Midwest,399,Green Lightning,398,33,0
+11,Eastern,299,Green Lightning,398,27,1
+7,Eastern,187,Purple Pain,365,34,8
+10,Southeast,926,Nap Be Gone,427,35,3
+11,Midwest,334,Red Hot Chili Peppers,434,47,1
+10,Midwest,130,Yellow Zonkers,253,29,5
+10,Eastern,567,Blue Rock Candy,489,45,6
+9,Eastern,545,Orange Creepies,466,33,0
+5,Eastern,344,Pink Bubble Gum,318,7,10
+7,Midwest,284,Panda Gummies,149,23,0
+1,Southeast,631,Giant Gummies,428,27,2
+10,Midwest,799,Orange Creepies,466,37,3
+8,Southeast,950,Red Hot Chili Peppers,434,24,4
+6,Southeast,140,Green Lightning,398,4,8
+3,Western,233,Orange Creepies,466,5,7
+6,Western,374,Pink Bubble Gum,318,0,0
+10,Western,744,Crocodile Tears,293,13,9
+2,Western,859,Crocodile Tears,293,37,2
+6,Midwest,573,Pink Bubble Gum,318,6,3
+8,Eastern,459,Grey Gummies,399,43,0
+4,Southeast,953,Green Lightning,398,3,8
+4,Western,753,Crocodile Tears,293,28,10
+7,Southeast,134,Red Hot Chili Peppers,434,30,7
+7,Midwest,133,Crocodile Tears,293,15,10
+2,Western,974,Yellow Zonkers,253,10,9
+8,Midwest,268,Pink Bubble Gum,318,45,0
+10,Eastern,575,Yellow Zonkers,253,31,8
+5,Eastern,190,Purple Pain,365,27,10
+11,Western,296,Grey Gummies,399,30,1
+2,Midwest,598,Giant Gummies,428,22,4
+2,Eastern,782,Blue Rock Candy,489,41,8
+8,Eastern,215,Panda Gummies,149,14,5
+1,Midwest,384,Nap Be Gone,427,30,5
+9,Midwest,169,Crocodile Tears,293,50,8
+6,Southeast,527,Purple Pain,365,37,6
+10,Western,990,Red Hot Chili Peppers,434,37,10
+5,Southeast,553,Red Hot Chili Peppers,434,13,10
+7,Western,904,Crocodile Tears,293,14,3
+6,Eastern,339,Yellow Zonkers,253,25,10
+11,Eastern,603,Panda Gummies,149,50,6
+3,Eastern,913,Yellow Zonkers,253,29,4
+4,Eastern,685,Grey Gummies,399,4,0
+7,Eastern,961,Crocodile Tears,293,43,10
+10,Midwest,540,Green Lightning,398,22,0
+2,Western,719,Grey Gummies,399,4,6
+9,Western,218,Blue Rock Candy,489,28,9
+9,Eastern,444,Purple Pain,365,16,3
+5,Southeast,853,Nap Be Gone,427,24,2
+10,Midwest,662,Panda Gummies,149,45,9
+7,Midwest,196,Crocodile Tears,293,4,2
+8,Eastern,659,Giant Gummies,428,20,0
+10,Southeast,625,Giant Gummies,428,20,5
+4,Western,466,Yellow Zonkers,253,44,1
+7,Western,150,Red Hot Chili Peppers,434,18,4
+10,Southeast,225,Yellow Zonkers,253,35,10
+4,Eastern,490,Panda Gummies,149,19,4
+4,Midwest,423,Orange Creepies,466,23,9
+6,Midwest,250,Red Hot Chili Peppers,434,5,7
+3,Eastern,104,Red Hot Chili Peppers,434,31,5
+2,Eastern,840,Grey Gummies,399,11,10
+5,Southeast,255,Crocodile Tears,293,41,7
+7,Eastern,991,Pink Bubble Gum,318,25,9

@@ -1,0 +1,501 @@
+Month,Country,Region,State,Product,Per-Unit Price,Quantity,Order Total
+12,USA,Western,OR,Pink Bubble Gum,318,29,9222
+8,USA,Southeast,SC,Crocodile Tears,282,4,1128
+1,USA,Midwest,MI,Blue Rock Candy,466,20,9320
+7,USA,Midwest,IL,Blue Rock Candy,466,31,14446
+8,USA,Western,NV,Green Lightning,406,5,2030
+12,USA,Southeast,KY,Green Lightning,406,4,1624
+8,USA,Eastern,RI,Grey Gummies,399,28,11172
+12,USA,Western,HI,Purple Pain,348,1,348
+12,USA,Western,WA,Grey Gummies,399,10,3990
+11,USA,Midwest,IN,Green Lightning,406,14,5684
+9,USA,Western,NV,Yellow Zonkers,258,40,10320
+10,USA,Southeast,MO,Nap Be Gone,423,25,10575
+2,USA,Eastern,MA,Red Hot Chili Peppers,430,34,14620
+9,USA,Midwest,IL,Purple Pain,348,23,8004
+4,USA,Western,WA,Crocodile Tears,282,20,5640
+12,USA,Midwest,ND,Grey Gummies,399,25,9975
+12,USA,Midwest,NE,Nap Be Gone,423,33,13959
+4,USA,Southeast,TN,Giant Gummies,424,5,2120
+1,USA,Western,ID,Crocodile Tears,282,4,1128
+3,USA,Western,OR,Purple Pain,348,13,4524
+7,USA,Midwest,OH,Crocodile Tears,282,5,1410
+1,USA,Eastern,NH,Yellow Zonkers,258,31,7998
+11,USA,Western,AZ,Blue Rock Candy,466,19,8854
+7,USA,Western,NM,Green Lightning,406,22,8932
+4,USA,Western,UT,Green Lightning,406,24,9744
+6,USA,Midwest,NE,Pink Bubble Gum,318,6,1908
+1,USA,Southeast,MS,Yellow Zonkers,258,22,5676
+5,USA,Southeast,MO,Green Lightning,406,26,10556
+1,USA,Southeast,TN,Grey Gummies,399,3,1197
+1,USA,Eastern,VT,Red Hot Chili Peppers,430,26,11180
+5,USA,Western,NV,Nap Be Gone,423,29,12267
+5,USA,Eastern,MD,Giant Gummies,424,33,13992
+1,USA,Eastern,FL,Crocodile Tears,282,31,8742
+2,USA,Eastern,DE,Pink Bubble Gum,318,30,9540
+4,USA,Midwest,NE,Nap Be Gone,423,15,6345
+6,USA,Western,CO,Crocodile Tears,282,20,5640
+4,USA,Eastern,NJ,Giant Gummies,424,18,7632
+10,USA,Southeast,SC,Giant Gummies,424,8,3392
+11,USA,Western,UT,Pink Bubble Gum,318,23,7314
+10,USA,Eastern,NY,Orange Creepies,452,23,10396
+6,USA,Midwest,MI,Blue Rock Candy,466,30,13980
+4,USA,Western,UT,Pink Bubble Gum,318,28,8904
+1,USA,Western,UT,Panda Gummies,146,20,2920
+8,USA,Eastern,RI,Panda Gummies,146,39,5694
+4,USA,Eastern,VT,Nap Be Gone,423,28,11844
+3,USA,Midwest,SD,Red Hot Chili Peppers,430,19,8170
+7,USA,Eastern,VA,Crocodile Tears,282,30,8460
+5,USA,Southeast,KY,Blue Rock Candy,466,13,6058
+5,USA,Midwest,IL,Green Lightning,406,29,11774
+12,USA,Midwest,IN,Crocodile Tears,282,21,5922
+8,USA,Eastern,RI,Green Lightning,406,11,4466
+11,USA,Eastern,WV,Panda Gummies,146,11,1606
+6,USA,Midwest,WI,Grey Gummies,399,36,14364
+3,USA,Midwest,WI,Pink Bubble Gum,318,27,8586
+3,USA,Western,OR,Red Hot Chili Peppers,430,23,9890
+3,USA,Western,HI,Red Hot Chili Peppers,430,38,16340
+5,USA,Midwest,IL,Grey Gummies,399,34,13566
+4,USA,Midwest,IL,Green Lightning,406,38,15428
+9,USA,Southeast,LA,Green Lightning,406,13,5278
+12,USA,Southeast,NC,Panda Gummies,146,22,3212
+5,USA,Eastern,RI,Nap Be Gone,423,2,846
+9,USA,Midwest,IL,Orange Creepies,452,35,15820
+11,USA,Western,WA,Nap Be Gone,423,13,5499
+1,USA,Western,CO,Grey Gummies,399,5,1995
+11,USA,Western,MT,Crocodile Tears,282,16,4512
+11,USA,Eastern,ME,Green Lightning,406,2,812
+7,USA,Eastern,FL,Nap Be Gone,423,35,14805
+10,USA,Southeast,AR,Nap Be Gone,423,26,10998
+10,USA,Midwest,MI,Grey Gummies,399,30,11970
+10,USA,Western,ID,Crocodile Tears,282,11,3102
+12,USA,Eastern,FL,Green Lightning,406,38,15428
+8,USA,Midwest,IN,Panda Gummies,146,17,2482
+11,USA,Southeast,LA,Nap Be Gone,423,8,3384
+9,USA,Midwest,KS,Crocodile Tears,282,1,282
+11,USA,Eastern,VA,Giant Gummies,424,17,7208
+8,USA,Midwest,OH,Orange Creepies,452,39,17628
+10,USA,Eastern,NH,Orange Creepies,452,40,18080
+11,USA,Midwest,SD,Grey Gummies,399,28,11172
+5,USA,Western,WA,Green Lightning,406,26,10556
+9,USA,Western,WA,Giant Gummies,424,37,15688
+12,USA,Midwest,ND,Panda Gummies,146,40,5840
+9,USA,Midwest,OK,Crocodile Tears,282,10,2820
+12,USA,Western,TX,Pink Bubble Gum,318,1,318
+1,USA,Midwest,IA,Blue Rock Candy,466,28,13048
+5,USA,Western,AZ,Panda Gummies,146,9,1314
+9,USA,Eastern,NJ,Grey Gummies,399,28,11172
+2,USA,Eastern,NH,Giant Gummies,424,5,2120
+5,USA,Western,WY,Panda Gummies,146,7,1022
+11,USA,Midwest,IA,Nap Be Gone,423,4,1692
+7,USA,Midwest,IA,Nap Be Gone,423,22,9306
+1,USA,Western,NV,Red Hot Chili Peppers,430,11,4730
+4,USA,Western,NM,Pink Bubble Gum,318,5,1590
+4,USA,Eastern,AL,Giant Gummies,424,8,3392
+10,USA,Eastern,AL,Crocodile Tears,282,22,6204
+6,USA,Southeast,SC,Purple Pain,348,31,10788
+7,USA,Eastern,CT,Green Lightning,406,26,10556
+2,USA,Midwest,IL,Crocodile Tears,282,23,6486
+7,USA,Western,UT,Grey Gummies,399,7,2793
+9,USA,Eastern,AL,Pink Bubble Gum,318,12,3816
+6,USA,Midwest,MI,Red Hot Chili Peppers,430,9,3870
+3,USA,Western,AZ,Red Hot Chili Peppers,430,7,3010
+11,USA,Eastern,ME,Crocodile Tears,282,40,11280
+10,USA,Western,CO,Giant Gummies,424,21,8904
+11,USA,Western,ID,Purple Pain,348,38,13224
+9,USA,Western,UT,Nap Be Gone,423,18,7614
+2,USA,Southeast,TN,Blue Rock Candy,466,36,16776
+6,USA,Eastern,GA,Giant Gummies,424,35,14840
+6,USA,Eastern,ME,Grey Gummies,399,25,9975
+1,USA,Western,AZ,Blue Rock Candy,466,23,10718
+3,USA,Eastern,MD,Panda Gummies,146,16,2336
+1,USA,Eastern,NH,Blue Rock Candy,466,5,2330
+4,USA,Western,CO,Nap Be Gone,423,1,423
+8,USA,Western,CA,Crocodile Tears,282,6,1692
+10,USA,Midwest,IA,Green Lightning,406,28,11368
+4,USA,Midwest,OK,Grey Gummies,399,35,13965
+7,USA,Midwest,IN,Panda Gummies,146,2,292
+11,USA,Southeast,NC,Yellow Zonkers,258,21,5418
+4,USA,Southeast,NC,Giant Gummies,424,36,15264
+6,USA,Southeast,SC,Purple Pain,348,19,6612
+11,USA,Midwest,MI,Blue Rock Candy,466,35,16310
+1,USA,Southeast,NC,Red Hot Chili Peppers,430,29,12470
+8,USA,Midwest,IL,Red Hot Chili Peppers,430,9,3870
+8,USA,Midwest,NE,Giant Gummies,424,40,16960
+1,USA,Eastern,CT,Giant Gummies,424,28,11872
+3,USA,Midwest,IA,Nap Be Gone,423,26,10998
+8,USA,Western,TX,Yellow Zonkers,258,39,10062
+5,USA,Midwest,WI,Grey Gummies,399,32,12768
+5,USA,Western,NM,Yellow Zonkers,258,28,7224
+8,USA,Western,MT,Purple Pain,348,24,8352
+8,USA,Eastern,RI,Panda Gummies,146,32,4672
+12,USA,Western,UT,Grey Gummies,399,18,7182
+12,USA,Eastern,AL,Purple Pain,348,32,11136
+4,USA,Eastern,RI,Pink Bubble Gum,318,26,8268
+2,USA,Southeast,SC,Grey Gummies,399,0,0
+11,USA,Western,NM,Green Lightning,406,13,5278
+7,USA,Western,MT,Nap Be Gone,423,17,7191
+5,USA,Midwest,KS,Red Hot Chili Peppers,430,26,11180
+1,USA,Southeast,LA,Purple Pain,348,37,12876
+2,USA,Eastern,MD,Purple Pain,348,14,4872
+6,USA,Eastern,DE,Panda Gummies,146,38,5548
+5,USA,Western,CA,Grey Gummies,399,30,11970
+12,USA,Midwest,WI,Crocodile Tears,282,29,8178
+8,USA,Eastern,MD,Crocodile Tears,282,14,3948
+4,USA,Western,WA,Pink Bubble Gum,318,23,7314
+9,USA,Southeast,MS,Crocodile Tears,282,8,2256
+12,USA,Eastern,WV,Giant Gummies,424,13,5512
+1,USA,Midwest,OH,Panda Gummies,146,37,5402
+10,USA,Eastern,CT,Nap Be Gone,423,3,1269
+7,USA,Midwest,KS,Giant Gummies,424,29,12296
+11,USA,Eastern,MA,Purple Pain,348,26,9048
+8,USA,Western,HI,Yellow Zonkers,258,13,3354
+12,USA,Eastern,VA,Green Lightning,406,14,5684
+1,USA,Eastern,RI,Orange Creepies,452,23,10396
+10,USA,Western,WY,Blue Rock Candy,466,32,14912
+6,USA,Eastern,NJ,Blue Rock Candy,466,19,8854
+11,USA,Southeast,TN,Yellow Zonkers,258,24,6192
+9,USA,Southeast,MO,Purple Pain,348,10,3480
+4,USA,Eastern,PA,Red Hot Chili Peppers,430,2,860
+2,USA,Eastern,MA,Orange Creepies,452,12,5424
+4,USA,Midwest,WI,Grey Gummies,399,29,11571
+4,USA,Eastern,CT,Red Hot Chili Peppers,430,4,1720
+4,USA,Western,ID,Crocodile Tears,282,2,564
+12,USA,Eastern,WV,Purple Pain,348,1,348
+3,USA,Eastern,FL,Purple Pain,348,39,13572
+2,USA,Eastern,MA,Orange Creepies,452,15,6780
+6,USA,Eastern,CT,Orange Creepies,452,18,8136
+9,USA,Eastern,NJ,Pink Bubble Gum,318,34,10812
+2,USA,Midwest,MN,Blue Rock Candy,466,12,5592
+12,USA,Midwest,IN,Crocodile Tears,282,21,5922
+12,USA,Southeast,TN,Crocodile Tears,282,30,8460
+7,USA,Western,CA,Crocodile Tears,282,36,10152
+9,USA,Midwest,MI,Purple Pain,348,17,5916
+4,USA,Midwest,SD,Crocodile Tears,282,2,564
+7,USA,Midwest,OK,Panda Gummies,146,36,5256
+6,USA,Midwest,IN,Grey Gummies,399,38,15162
+5,USA,Western,CA,Blue Rock Candy,466,18,8388
+3,USA,Eastern,GA,Orange Creepies,452,5,2260
+10,USA,Western,AZ,Nap Be Gone,423,16,6768
+4,USA,Southeast,KY,Giant Gummies,424,14,5936
+10,USA,Eastern,AL,Grey Gummies,399,24,9576
+6,USA,Southeast,NC,Yellow Zonkers,258,22,5676
+6,USA,Eastern,FL,Purple Pain,348,39,13572
+4,USA,Western,TX,Grey Gummies,399,13,5187
+4,USA,Eastern,CT,Crocodile Tears,282,21,5922
+7,USA,Western,MT,Pink Bubble Gum,318,32,10176
+9,USA,Western,ID,Pink Bubble Gum,318,29,9222
+11,USA,Midwest,OK,Grey Gummies,399,1,399
+12,USA,Southeast,NC,Yellow Zonkers,258,37,9546
+7,USA,Eastern,NJ,Crocodile Tears,282,2,564
+5,USA,Western,HI,Panda Gummies,146,25,3650
+5,USA,Eastern,NH,Green Lightning,406,0,0
+1,USA,Western,WY,Blue Rock Candy,466,25,11650
+3,USA,Southeast,SC,Yellow Zonkers,258,16,4128
+8,USA,Southeast,TN,Yellow Zonkers,258,18,4644
+12,USA,Midwest,WI,Crocodile Tears,282,5,1410
+7,USA,Southeast,AR,Panda Gummies,146,24,3504
+12,USA,Midwest,MN,Yellow Zonkers,258,11,2838
+11,USA,Midwest,WI,Green Lightning,406,10,4060
+4,USA,Western,UT,Green Lightning,406,16,6496
+10,USA,Southeast,TN,Blue Rock Candy,466,31,14446
+1,USA,Western,WA,Orange Creepies,452,26,11752
+1,USA,Eastern,MA,Purple Pain,348,20,6960
+3,USA,Eastern,VA,Giant Gummies,424,31,13144
+4,USA,Midwest,IN,Pink Bubble Gum,318,26,8268
+2,USA,Southeast,MS,Green Lightning,406,23,9338
+7,USA,Southeast,KY,Yellow Zonkers,258,32,8256
+10,USA,Eastern,WV,Green Lightning,406,1,406
+4,USA,Eastern,NY,Red Hot Chili Peppers,430,22,9460
+9,USA,Southeast,MO,Blue Rock Candy,466,21,9786
+1,USA,Western,AK,Yellow Zonkers,258,10,2580
+1,USA,Southeast,NC,Green Lightning,406,19,7714
+1,USA,Eastern,WV,Yellow Zonkers,258,9,2322
+7,USA,Eastern,ME,Pink Bubble Gum,318,36,11448
+2,USA,Southeast,MO,Panda Gummies,146,18,2628
+9,USA,Eastern,ME,Crocodile Tears,282,3,846
+9,USA,Midwest,IA,Yellow Zonkers,258,6,1548
+6,USA,Southeast,SC,Blue Rock Candy,466,39,18174
+9,USA,Western,CO,Purple Pain,348,19,6612
+7,USA,Western,AK,Panda Gummies,146,23,3358
+6,USA,Western,CA,Panda Gummies,146,5,730
+2,USA,Southeast,TN,Crocodile Tears,282,38,10716
+3,USA,Eastern,NY,Green Lightning,406,36,14616
+1,USA,Western,AZ,Nap Be Gone,423,16,6768
+12,USA,Midwest,NE,Nap Be Gone,423,28,11844
+2,USA,Southeast,LA,Nap Be Gone,423,3,1269
+6,USA,Eastern,NH,Blue Rock Candy,466,21,9786
+6,USA,Eastern,WV,Yellow Zonkers,258,39,10062
+8,USA,Western,HI,Nap Be Gone,423,8,3384
+4,USA,Eastern,FL,Nap Be Gone,423,26,10998
+8,USA,Eastern,MD,Purple Pain,348,18,6264
+1,USA,Eastern,VA,Crocodile Tears,282,14,3948
+1,USA,Western,NM,Yellow Zonkers,258,11,2838
+12,USA,Midwest,NE,Orange Creepies,452,13,5876
+10,USA,Western,UT,Giant Gummies,424,7,2968
+2,USA,Western,NM,Panda Gummies,146,3,438
+7,USA,Western,MT,Panda Gummies,146,32,4672
+7,USA,Western,UT,Pink Bubble Gum,318,26,8268
+2,USA,Southeast,KY,Purple Pain,348,25,8700
+5,USA,Southeast,TN,Pink Bubble Gum,318,23,7314
+6,USA,Southeast,MO,Pink Bubble Gum,318,10,3180
+2,USA,Southeast,MS,Crocodile Tears,282,39,10998
+12,USA,Western,CO,Grey Gummies,399,26,10374
+4,USA,Southeast,AR,Orange Creepies,452,10,4520
+8,USA,Eastern,RI,Crocodile Tears,282,29,8178
+9,USA,Western,TX,Pink Bubble Gum,318,33,10494
+2,USA,Southeast,MS,Grey Gummies,399,27,10773
+7,USA,Western,MT,Crocodile Tears,282,19,5358
+3,USA,Eastern,CT,Purple Pain,348,10,3480
+2,USA,Eastern,GA,Nap Be Gone,423,9,3807
+7,USA,Western,AK,Grey Gummies,399,15,5985
+12,USA,Midwest,ND,Giant Gummies,424,34,14416
+5,USA,Western,WA,Grey Gummies,399,23,9177
+7,USA,Midwest,OK,Giant Gummies,424,15,6360
+12,USA,Western,TX,Pink Bubble Gum,318,11,3498
+11,USA,Western,CA,Yellow Zonkers,258,23,5934
+11,USA,Eastern,CT,Red Hot Chili Peppers,430,35,15050
+8,USA,Midwest,MI,Blue Rock Candy,466,23,10718
+7,USA,Eastern,NH,Yellow Zonkers,258,12,3096
+3,USA,Eastern,AL,Grey Gummies,399,8,3192
+3,USA,Western,WA,Yellow Zonkers,258,9,2322
+5,USA,Midwest,NE,Yellow Zonkers,258,9,2322
+1,USA,Midwest,WI,Crocodile Tears,282,25,7050
+9,USA,Southeast,SC,Orange Creepies,452,24,10848
+2,USA,Midwest,IN,Pink Bubble Gum,318,6,1908
+5,USA,Eastern,VT,Nap Be Gone,423,10,4230
+3,USA,Southeast,NC,Red Hot Chili Peppers,430,16,6880
+1,USA,Midwest,IN,Grey Gummies,399,20,7980
+4,USA,Western,CA,Pink Bubble Gum,318,0,0
+5,USA,Western,NV,Nap Be Gone,423,18,7614
+1,USA,Eastern,GA,Blue Rock Candy,466,20,9320
+3,USA,Southeast,MO,Purple Pain,348,7,2436
+11,USA,Eastern,MD,Green Lightning,406,21,8526
+4,USA,Eastern,RI,Orange Creepies,452,8,3616
+12,USA,Eastern,NH,Panda Gummies,146,37,5402
+7,USA,Eastern,MD,Giant Gummies,424,34,14416
+10,USA,Eastern,ME,Red Hot Chili Peppers,430,19,8170
+1,USA,Midwest,IL,Pink Bubble Gum,318,9,2862
+6,USA,Eastern,NJ,Nap Be Gone,423,4,1692
+7,USA,Eastern,ME,Red Hot Chili Peppers,430,11,4730
+11,USA,Eastern,DE,Panda Gummies,146,4,584
+6,USA,Southeast,NC,Red Hot Chili Peppers,430,2,860
+3,USA,Southeast,NC,Giant Gummies,424,9,3816
+2,USA,Midwest,OH,Green Lightning,406,4,1624
+3,USA,Western,ID,Panda Gummies,146,18,2628
+12,USA,Western,AK,Yellow Zonkers,258,37,9546
+4,USA,Southeast,AR,Yellow Zonkers,258,26,6708
+11,USA,Southeast,MS,Panda Gummies,146,17,2482
+9,USA,Western,AK,Green Lightning,406,39,15834
+6,USA,Midwest,WI,Yellow Zonkers,258,2,516
+3,USA,Western,WA,Yellow Zonkers,258,21,5418
+5,USA,Eastern,VT,Yellow Zonkers,258,10,2580
+4,USA,Western,UT,Purple Pain,348,16,5568
+11,USA,Eastern,CT,Pink Bubble Gum,318,40,12720
+1,USA,Western,CA,Giant Gummies,424,25,10600
+5,USA,Midwest,OK,Giant Gummies,424,11,4664
+1,USA,Midwest,IA,Panda Gummies,146,14,2044
+2,USA,Southeast,NC,Nap Be Gone,423,2,846
+11,USA,Western,CA,Crocodile Tears,282,11,3102
+7,USA,Eastern,NJ,Giant Gummies,424,22,9328
+11,USA,Southeast,MS,Green Lightning,406,37,15022
+4,USA,Midwest,IL,Giant Gummies,424,19,8056
+3,USA,Eastern,ME,Blue Rock Candy,466,9,4194
+6,USA,Western,CO,Crocodile Tears,282,15,4230
+8,USA,Midwest,OH,Red Hot Chili Peppers,430,40,17200
+8,USA,Southeast,MO,Yellow Zonkers,258,29,7482
+3,USA,Midwest,IL,Pink Bubble Gum,318,36,11448
+5,USA,Western,WA,Green Lightning,406,10,4060
+5,USA,Eastern,MD,Red Hot Chili Peppers,430,18,7740
+5,USA,Midwest,OH,Giant Gummies,424,27,11448
+9,USA,Midwest,IA,Pink Bubble Gum,318,33,10494
+3,USA,Eastern,FL,Red Hot Chili Peppers,430,24,10320
+11,USA,Eastern,DE,Panda Gummies,146,8,1168
+11,USA,Midwest,KS,Grey Gummies,399,5,1995
+1,USA,Midwest,MN,Orange Creepies,452,13,5876
+8,USA,Western,OR,Orange Creepies,452,15,6780
+2,USA,Western,UT,Red Hot Chili Peppers,430,17,7310
+4,USA,Midwest,IN,Purple Pain,348,15,5220
+7,USA,Western,HI,Red Hot Chili Peppers,430,33,14190
+6,USA,Western,HI,Yellow Zonkers,258,39,10062
+7,USA,Western,TX,Green Lightning,406,30,12180
+10,USA,Western,TX,Crocodile Tears,282,14,3948
+2,USA,Midwest,OH,Nap Be Gone,423,2,846
+3,USA,Midwest,ND,Orange Creepies,452,36,16272
+2,USA,Southeast,LA,Blue Rock Candy,466,18,8388
+8,USA,Midwest,IN,Giant Gummies,424,15,6360
+9,USA,Eastern,DE,Panda Gummies,146,24,3504
+3,USA,Western,AZ,Pink Bubble Gum,318,1,318
+7,USA,Midwest,OK,Giant Gummies,424,40,16960
+8,USA,Southeast,SC,Purple Pain,348,1,348
+3,USA,Southeast,NC,Panda Gummies,146,12,1752
+8,USA,Eastern,NJ,Orange Creepies,452,3,1356
+11,USA,Eastern,FL,Panda Gummies,146,33,4818
+4,USA,Eastern,GA,Crocodile Tears,282,40,11280
+5,USA,Southeast,NC,Orange Creepies,452,34,15368
+10,USA,Southeast,KY,Grey Gummies,399,8,3192
+12,USA,Eastern,VT,Orange Creepies,452,1,452
+5,USA,Eastern,GA,Red Hot Chili Peppers,430,22,9460
+9,USA,Western,WA,Orange Creepies,452,38,17176
+11,USA,Midwest,IN,Green Lightning,406,11,4466
+3,USA,Western,NM,Giant Gummies,424,24,10176
+2,USA,Eastern,NH,Yellow Zonkers,258,38,9804
+1,USA,Midwest,IL,Pink Bubble Gum,318,32,10176
+1,USA,Midwest,IL,Purple Pain,348,26,9048
+5,USA,Eastern,NJ,Crocodile Tears,282,26,7332
+4,USA,Midwest,KS,Giant Gummies,424,15,6360
+10,USA,Midwest,WI,Nap Be Gone,423,25,10575
+3,USA,Western,WA,Yellow Zonkers,258,14,3612
+5,USA,Western,CO,Green Lightning,406,38,15428
+1,USA,Western,ID,Green Lightning,406,1,406
+9,USA,Southeast,TN,Grey Gummies,399,20,7980
+12,USA,Western,UT,Crocodile Tears,282,20,5640
+8,USA,Eastern,GA,Giant Gummies,424,11,4664
+11,USA,Western,MT,Orange Creepies,452,5,2260
+2,USA,Southeast,NC,Panda Gummies,146,35,5110
+12,USA,Western,CO,Pink Bubble Gum,318,4,1272
+12,USA,Eastern,MD,Panda Gummies,146,14,2044
+7,USA,Midwest,MI,Blue Rock Candy,466,4,1864
+7,USA,Western,WA,Crocodile Tears,282,9,2538
+9,USA,Eastern,AL,Nap Be Gone,423,38,16074
+9,USA,Southeast,TN,Giant Gummies,424,6,2544
+9,USA,Eastern,VT,Crocodile Tears,282,25,7050
+12,USA,Western,WY,Grey Gummies,399,22,8778
+3,USA,Eastern,DE,Red Hot Chili Peppers,430,18,7740
+12,USA,Midwest,IA,Green Lightning,406,33,13398
+8,USA,Midwest,OK,Grey Gummies,399,5,1995
+1,USA,Midwest,IL,Yellow Zonkers,258,0,0
+2,USA,Western,ID,Crocodile Tears,282,33,9306
+4,USA,Western,AK,Red Hot Chili Peppers,430,26,11180
+11,USA,Eastern,AL,Panda Gummies,146,14,2044
+10,USA,Western,UT,Red Hot Chili Peppers,430,39,16770
+7,USA,Southeast,SC,Blue Rock Candy,466,34,15844
+6,USA,Western,WY,Giant Gummies,424,16,6784
+2,USA,Eastern,VT,Yellow Zonkers,258,14,3612
+4,USA,Midwest,OH,Orange Creepies,452,9,4068
+6,USA,Eastern,MD,Grey Gummies,399,22,8778
+6,USA,Midwest,WI,Panda Gummies,146,15,2190
+7,USA,Eastern,WV,Nap Be Gone,423,21,8883
+4,USA,Eastern,VA,Yellow Zonkers,258,7,1806
+8,USA,Eastern,VT,Giant Gummies,424,33,13992
+3,USA,Eastern,WV,Crocodile Tears,282,23,6486
+5,USA,Midwest,IA,Blue Rock Candy,466,17,7922
+12,USA,Western,UT,Pink Bubble Gum,318,29,9222
+7,USA,Southeast,SC,Nap Be Gone,423,5,2115
+8,USA,Eastern,FL,Purple Pain,348,32,11136
+1,USA,Midwest,ND,Grey Gummies,399,7,2793
+3,USA,Eastern,WV,Panda Gummies,146,16,2336
+8,USA,Eastern,NH,Purple Pain,348,25,8700
+6,USA,Western,WA,Red Hot Chili Peppers,430,9,3870
+3,USA,Midwest,WI,Panda Gummies,146,26,3796
+9,USA,Midwest,NE,Yellow Zonkers,258,20,5160
+11,USA,Eastern,RI,Nap Be Gone,423,2,846
+4,USA,Midwest,IN,Orange Creepies,452,19,8588
+1,USA,Southeast,TN,Blue Rock Candy,466,2,932
+9,USA,Midwest,SD,Green Lightning,406,8,3248
+9,USA,Southeast,AR,Pink Bubble Gum,318,1,318
+4,USA,Eastern,FL,Yellow Zonkers,258,10,2580
+3,USA,Midwest,OK,Orange Creepies,452,31,14012
+12,USA,Midwest,OK,Blue Rock Candy,466,34,15844
+7,USA,Eastern,DE,Pink Bubble Gum,318,9,2862
+6,USA,Eastern,MD,Grey Gummies,399,26,10374
+4,USA,Midwest,OK,Green Lightning,406,10,4060
+5,USA,Midwest,OK,Grey Gummies,399,23,9177
+6,USA,Eastern,CT,Green Lightning,406,3,1218
+9,USA,Western,AZ,Giant Gummies,424,27,11448
+12,USA,Southeast,LA,Pink Bubble Gum,318,40,12720
+10,USA,Eastern,CT,Nap Be Gone,423,15,6345
+6,USA,Eastern,CT,Orange Creepies,452,7,3164
+9,USA,Western,MT,Green Lightning,406,21,8526
+9,USA,Midwest,WI,Green Lightning,406,19,7714
+9,USA,Western,ID,Yellow Zonkers,258,28,7224
+4,USA,Midwest,NE,Green Lightning,406,20,8120
+1,USA,Eastern,VA,Panda Gummies,146,33,4818
+3,USA,Midwest,OH,Orange Creepies,452,29,13108
+10,USA,Eastern,AL,Nap Be Gone,423,8,3384
+2,USA,Eastern,FL,Giant Gummies,424,15,6360
+9,USA,Eastern,MA,Yellow Zonkers,258,38,9804
+12,USA,Midwest,IN,Giant Gummies,424,36,15264
+6,USA,Southeast,MS,Orange Creepies,452,20,9040
+10,USA,Midwest,WI,Grey Gummies,399,23,9177
+8,USA,Eastern,WV,Orange Creepies,452,12,5424
+9,USA,Southeast,MO,Purple Pain,348,30,10440
+3,USA,Western,NM,Giant Gummies,424,7,2968
+2,USA,Eastern,WV,Blue Rock Candy,466,39,18174
+9,USA,Midwest,SD,Orange Creepies,452,36,16272
+8,USA,Eastern,WV,Giant Gummies,424,2,848
+8,USA,Western,AZ,Green Lightning,406,7,2842
+5,USA,Midwest,MI,Panda Gummies,146,18,2628
+2,USA,Southeast,LA,Grey Gummies,399,37,14763
+12,USA,Southeast,MO,Crocodile Tears,282,40,11280
+2,USA,Western,NV,Crocodile Tears,282,39,10998
+12,USA,Eastern,PA,Red Hot Chili Peppers,430,8,3440
+9,USA,Midwest,IL,Green Lightning,406,35,14210
+6,USA,Western,UT,Grey Gummies,399,23,9177
+5,USA,Midwest,WI,Yellow Zonkers,258,24,6192
+10,USA,Midwest,MN,Orange Creepies,452,29,13108
+9,USA,Southeast,KY,Yellow Zonkers,258,13,3354
+2,USA,Eastern,NH,Purple Pain,348,29,10092
+11,USA,Western,AZ,Purple Pain,348,13,4524
+7,USA,Western,OR,Blue Rock Candy,466,2,932
+9,USA,Eastern,NH,Giant Gummies,424,25,10600
+3,USA,Western,TX,Blue Rock Candy,466,0,0
+12,USA,Western,UT,Green Lightning,406,15,6090
+5,USA,Western,AZ,Panda Gummies,146,24,3504
+12,USA,Southeast,MO,Orange Creepies,452,36,16272
+7,USA,Western,NM,Giant Gummies,424,26,11024
+6,USA,Eastern,MD,Nap Be Gone,423,32,13536
+7,USA,Southeast,KY,Crocodile Tears,282,36,10152
+7,USA,Southeast,TN,Purple Pain,348,39,13572
+1,USA,Southeast,SC,Grey Gummies,399,27,10773
+7,USA,Midwest,KS,Giant Gummies,424,20,8480
+5,USA,Southeast,KY,Nap Be Gone,423,15,6345
+6,USA,Southeast,MS,Orange Creepies,452,19,8588
+8,USA,Southeast,LA,Pink Bubble Gum,318,1,318
+4,USA,Midwest,SD,Yellow Zonkers,258,16,4128
+4,USA,Midwest,IL,Crocodile Tears,282,30,8460
+12,USA,Western,OR,Grey Gummies,399,26,10374
+4,USA,Western,ID,Blue Rock Candy,466,20,9320
+6,USA,Western,AK,Giant Gummies,424,22,9328
+12,USA,Midwest,SD,Pink Bubble Gum,318,18,5724
+10,USA,Southeast,NC,Blue Rock Candy,466,38,17708
+6,USA,Eastern,CT,Blue Rock Candy,466,40,18640
+6,USA,Midwest,OK,Green Lightning,406,0,0
+3,USA,Midwest,MN,Pink Bubble Gum,318,17,5406
+2,USA,Eastern,GA,Yellow Zonkers,258,29,7482
+1,USA,Western,AK,Red Hot Chili Peppers,430,11,4730
+1,USA,Western,CA,Grey Gummies,399,3,1197
+11,USA,Eastern,MD,Panda Gummies,146,20,2920
+6,USA,Midwest,MN,Green Lightning,406,11,4466
+9,USA,Eastern,VA,Nap Be Gone,423,2,846
+3,USA,Western,AZ,Grey Gummies,399,2,798
+5,USA,Eastern,FL,Panda Gummies,146,28,4088
+4,USA,Western,AK,Red Hot Chili Peppers,430,12,5160
+3,USA,Midwest,KS,Yellow Zonkers,258,36,9288
+11,USA,Southeast,NC,Green Lightning,406,37,15022
+12,USA,Western,NM,Green Lightning,406,4,1624
+7,USA,Southeast,TN,Giant Gummies,424,32,13568
+3,USA,Eastern,AL,Purple Pain,348,23,8004
+9,USA,Midwest,IN,Nap Be Gone,423,25,10575
+11,USA,Eastern,VT,Nap Be Gone,423,10,4230
+3,USA,Midwest,KS,Pink Bubble Gum,318,37,11766
+3,USA,Eastern,NH,Blue Rock Candy,466,23,10718
+7,USA,Western,NM,Purple Pain,348,20,6960
+10,USA,Southeast,MS,Panda Gummies,146,39,5694
+10,USA,Southeast,SC,Red Hot Chili Peppers,430,5,2150
+7,USA,Southeast,AR,Giant Gummies,424,6,2544
+6,USA,Eastern,WV,Nap Be Gone,423,3,1269
+10,USA,Eastern,DE,Red Hot Chili Peppers,430,6,2580
+7,USA,Eastern,ME,Yellow Zonkers,258,5,1290
+5,USA,Southeast,KY,Pink Bubble Gum,318,36,11448
+12,USA,Midwest,SD,Pink Bubble Gum,318,10,3180
+11,USA,Eastern,VT,Grey Gummies,399,22,8778
+12,USA,Western,CO,Green Lightning,406,2,812
+1,USA,Western,ID,Panda Gummies,146,11,1606
+6,USA,Eastern,VA,Red Hot Chili Peppers,430,34,14620
+8,USA,Western,OR,Yellow Zonkers,258,16,4128
+8,USA,Southeast,TN,Panda Gummies,146,7,1022
+11,USA,Western,WY,Crocodile Tears,282,8,2256
+3,USA,Western,ID,Orange Creepies,452,36,16272
+2,USA,Southeast,SC,Nap Be Gone,423,5,2115
+11,USA,Eastern,CT,Yellow Zonkers,258,35,9030

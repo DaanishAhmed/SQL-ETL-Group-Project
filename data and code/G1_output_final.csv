@@ -1,0 +1,970 @@
+BU_Designation,BU_Name,Product,Region,Year,Month,Sum of Quantity,Sum of Order Total
+Growth,Energy,Purple Pain,Eastern,2012,1,20,6960
+Growth,Energy,Purple Pain,Eastern,2012,2,14,4872
+Growth,Energy,Purple Pain,Eastern,2012,2,29,10092
+Growth,Energy,Purple Pain,Eastern,2012,3,10,3480
+Growth,Energy,Purple Pain,Eastern,2012,3,23,8004
+Growth,Energy,Purple Pain,Eastern,2012,3,39,13572
+Growth,Energy,Purple Pain,Eastern,2012,6,39,13572
+Growth,Energy,Purple Pain,Eastern,2012,8,18,6264
+Growth,Energy,Purple Pain,Eastern,2012,8,25,8700
+Growth,Energy,Purple Pain,Eastern,2012,8,32,11136
+Growth,Energy,Purple Pain,Eastern,2012,11,26,9048
+Growth,Energy,Purple Pain,Eastern,2012,12,1,348
+Growth,Energy,Purple Pain,Eastern,2012,12,32,11136
+Growth,Energy,Purple Pain,Eastern,2013,4,7,735
+Growth,Energy,Purple Pain,Eastern,2013,5,37,3677
+Growth,Energy,Purple Pain,Eastern,2013,7,18,2202
+Growth,Energy,Purple Pain,Eastern,2013,7,23,1115
+Growth,Energy,Purple Pain,Eastern,2013,7,42,2954
+Growth,Energy,Purple Pain,Eastern,2013,8,15,1107
+Growth,Energy,Purple Pain,Eastern,2013,9,19,1111
+Growth,Energy,Purple Pain,Eastern,2013,9,27,2939
+Growth,Energy,Purple Pain,Eastern,2013,10,44,3684
+Growth,Energy,Purple Pain,Eastern,2013,12,17,2565
+Growth,Energy,Purple Pain,Eastern,2013,12,23,2571
+Growth,Energy,Purple Pain,Eastern,2013,12,39,2951
+Growth,Energy,Purple Pain,Eastern,2014,2,35,12915
+Growth,Energy,Purple Pain,Eastern,2014,2,43,14280
+Growth,Energy,Purple Pain,Eastern,2014,4,24,8856
+Growth,Energy,Purple Pain,Eastern,2014,4,32,11808
+Growth,Energy,Purple Pain,Eastern,2014,6,33,12177
+Growth,Energy,Purple Pain,Eastern,2014,6,48,15941
+Growth,Energy,Purple Pain,Eastern,2014,7,39,12952
+Growth,Energy,Purple Pain,Eastern,2014,10,31,11439
+Growth,Energy,Purple Pain,Eastern,2014,11,5,1845
+Growth,Energy,Purple Pain,Eastern,2014,11,45,14944
+Growth,Energy,Purple Pain,Eastern,2014,11,57,18930
+Growth,Energy,Purple Pain,Eastern,2014,12,26,9594
+Growth,Energy,Purple Pain,Midwest,2012,1,26,9048
+Growth,Energy,Purple Pain,Midwest,2012,4,15,5220
+Growth,Energy,Purple Pain,Midwest,2012,9,17,5916
+Growth,Energy,Purple Pain,Midwest,2012,9,23,8004
+Growth,Energy,Purple Pain,Midwest,2013,2,20,3660
+Growth,Energy,Purple Pain,Midwest,2013,3,24,3300
+Growth,Energy,Purple Pain,Midwest,2013,5,46,2958
+Growth,Energy,Purple Pain,Midwest,2013,9,25,3665
+Growth,Energy,Purple Pain,Midwest,2013,9,29,1485
+Growth,Energy,Purple Pain,Midwest,2013,10,17,381
+Growth,Energy,Purple Pain,Midwest,2014,3,20,7380
+Growth,Energy,Purple Pain,Midwest,2014,4,3,1107
+Growth,Energy,Purple Pain,Midwest,2014,4,52,17269
+Growth,Energy,Purple Pain,Midwest,2014,6,1,369
+Growth,Energy,Purple Pain,Midwest,2014,9,20,7380
+Growth,Energy,Purple Pain,Midwest,2014,11,43,14280
+Growth,Energy,Purple Pain,Midwest,2014,12,37,12288
+Growth,Energy,Purple Pain,Southeast,2012,1,37,12876
+Growth,Energy,Purple Pain,Southeast,2012,2,25,8700
+Growth,Energy,Purple Pain,Southeast,2012,3,7,2436
+Growth,Energy,Purple Pain,Southeast,2012,6,19,6612
+Growth,Energy,Purple Pain,Southeast,2012,6,31,10788
+Growth,Energy,Purple Pain,Southeast,2012,7,39,13572
+Growth,Energy,Purple Pain,Southeast,2012,8,1,348
+Growth,Energy,Purple Pain,Southeast,2012,9,10,3480
+Growth,Energy,Purple Pain,Southeast,2012,9,30,10440
+Growth,Energy,Purple Pain,Southeast,2013,6,43,2227
+Growth,Energy,Purple Pain,Southeast,2013,6,44,2956
+Growth,Energy,Purple Pain,Southeast,2013,7,14,3654
+Growth,Energy,Purple Pain,Southeast,2014,1,22,8118
+Growth,Energy,Purple Pain,Southeast,2014,4,31,11439
+Growth,Energy,Purple Pain,Southeast,2014,9,35,12915
+Growth,Energy,Purple Pain,Southeast,2014,11,8,2952
+Growth,Energy,Purple Pain,Southeast,2014,12,44,14612
+Growth,Energy,Purple Pain,Western,2012,3,13,4524
+Growth,Energy,Purple Pain,Western,2012,4,16,5568
+Growth,Energy,Purple Pain,Western,2012,7,20,6960
+Growth,Energy,Purple Pain,Western,2012,8,24,8352
+Growth,Energy,Purple Pain,Western,2012,9,19,6612
+Growth,Energy,Purple Pain,Western,2012,11,13,4524
+Growth,Energy,Purple Pain,Western,2012,11,38,13224
+Growth,Energy,Purple Pain,Western,2012,12,1,348
+Growth,Energy,Purple Pain,Western,2013,1,18,382
+Growth,Energy,Purple Pain,Western,2013,3,4,1460
+Growth,Energy,Purple Pain,Western,2013,3,23,23
+Growth,Energy,Purple Pain,Western,2013,4,32,3672
+Growth,Energy,Purple Pain,Western,2013,4,42,2590
+Growth,Energy,Purple Pain,Western,2013,4,47,1139
+Growth,Energy,Purple Pain,Western,2013,7,28,3304
+Growth,Energy,Purple Pain,Western,2013,9,28,1848
+Growth,Energy,Purple Pain,Western,2013,10,20,2204
+Growth,Energy,Purple Pain,Western,2013,11,23,3299
+Growth,Energy,Purple Pain,Western,2013,12,14,3654
+Growth,Energy,Purple Pain,Western,2013,12,27,755
+Growth,Energy,Purple Pain,Western,2013,12,30,758
+Growth,Energy,Purple Pain,Western,2013,12,34,3674
+Growth,Energy,Purple Pain,Western,2014,7,25,9225
+Growth,Energy,Purple Pain,Western,2014,8,15,5535
+Growth,Energy,Purple Pain,Western,2014,9,55,18265
+Growth,Energy,Purple Pain,Western,2014,11,59,19594
+Growth,Energy,Purple Pain,Western,2014,12,9,3321
+Growth,Energy,Purple Pain,Western,2014,12,22,8118
+Growth,Energy,Purple Pain,Western,2014,12,45,14944
+Growth,Energy,Red Hot Chili Peppers,Eastern,2012,1,26,11180
+Growth,Energy,Red Hot Chili Peppers,Eastern,2012,2,34,14620
+Growth,Energy,Red Hot Chili Peppers,Eastern,2012,3,18,7740
+Growth,Energy,Red Hot Chili Peppers,Eastern,2012,3,24,10320
+Growth,Energy,Red Hot Chili Peppers,Eastern,2012,4,2,860
+Growth,Energy,Red Hot Chili Peppers,Eastern,2012,4,4,1720
+Growth,Energy,Red Hot Chili Peppers,Eastern,2012,4,22,9460
+Growth,Energy,Red Hot Chili Peppers,Eastern,2012,5,18,7740
+Growth,Energy,Red Hot Chili Peppers,Eastern,2012,5,22,9460
+Growth,Energy,Red Hot Chili Peppers,Eastern,2012,6,34,14620
+Growth,Energy,Red Hot Chili Peppers,Eastern,2012,7,11,4730
+Growth,Energy,Red Hot Chili Peppers,Eastern,2012,10,6,2580
+Growth,Energy,Red Hot Chili Peppers,Eastern,2012,10,19,8170
+Growth,Energy,Red Hot Chili Peppers,Eastern,2012,11,35,15050
+Growth,Energy,Red Hot Chili Peppers,Eastern,2012,12,8,3440
+Growth,Energy,Red Hot Chili Peppers,Eastern,2013,2,13,4343
+Growth,Energy,Red Hot Chili Peppers,Eastern,2013,2,20,20
+Growth,Energy,Red Hot Chili Peppers,Eastern,2013,2,42,4372
+Growth,Energy,Red Hot Chili Peppers,Eastern,2013,3,36,2201
+Growth,Energy,Red Hot Chili Peppers,Eastern,2013,4,10,2608
+Growth,Energy,Red Hot Chili Peppers,Eastern,2013,6,11,2176
+Growth,Energy,Red Hot Chili Peppers,Eastern,2013,6,37,3068
+Growth,Energy,Red Hot Chili Peppers,Eastern,2013,6,43,1342
+Growth,Energy,Red Hot Chili Peppers,Eastern,2013,7,40,1772
+Growth,Energy,Red Hot Chili Peppers,Eastern,2013,8,11,444
+Growth,Energy,Red Hot Chili Peppers,Eastern,2013,8,33,2198
+Growth,Energy,Red Hot Chili Peppers,Eastern,2013,11,52,3949
+Growth,Energy,Red Hot Chili Peppers,Eastern,2013,12,29,1761
+Growth,Energy,Red Hot Chili Peppers,Eastern,2014,1,32,13600
+Growth,Energy,Red Hot Chili Peppers,Eastern,2014,2,7,2975
+Growth,Energy,Red Hot Chili Peppers,Eastern,2014,2,44,16830
+Growth,Energy,Red Hot Chili Peppers,Eastern,2014,4,30,12750
+Growth,Energy,Red Hot Chili Peppers,Eastern,2014,6,8,3400
+Growth,Energy,Red Hot Chili Peppers,Eastern,2014,6,48,18360
+Growth,Energy,Red Hot Chili Peppers,Eastern,2014,6,49,18742
+Growth,Energy,Red Hot Chili Peppers,Eastern,2014,6,57,21802
+Growth,Energy,Red Hot Chili Peppers,Eastern,2014,8,57,21802
+Growth,Energy,Red Hot Chili Peppers,Eastern,2014,10,7,2975
+Growth,Energy,Red Hot Chili Peppers,Eastern,2014,12,60,22950
+Growth,Energy,Red Hot Chili Peppers,Midwest,2012,3,19,8170
+Growth,Energy,Red Hot Chili Peppers,Midwest,2012,5,26,11180
+Growth,Energy,Red Hot Chili Peppers,Midwest,2012,6,9,3870
+Growth,Energy,Red Hot Chili Peppers,Midwest,2012,8,9,3870
+Growth,Energy,Red Hot Chili Peppers,Midwest,2012,8,40,17200
+Growth,Energy,Red Hot Chili Peppers,Midwest,2013,1,36,1768
+Growth,Energy,Red Hot Chili Peppers,Midwest,2013,1,48,481
+Growth,Energy,Red Hot Chili Peppers,Midwest,2013,2,44,3941
+Growth,Energy,Red Hot Chili Peppers,Midwest,2013,2,51,3515
+Growth,Energy,Red Hot Chili Peppers,Midwest,2013,3,10,3907
+Growth,Energy,Red Hot Chili Peppers,Midwest,2013,3,54,4384
+Growth,Energy,Red Hot Chili Peppers,Midwest,2013,5,40,4370
+Growth,Energy,Red Hot Chili Peppers,Midwest,2013,6,8,2173
+Growth,Energy,Red Hot Chili Peppers,Midwest,2013,6,12,3043
+Growth,Energy,Red Hot Chili Peppers,Midwest,2013,7,50,3081
+Growth,Energy,Red Hot Chili Peppers,Midwest,2013,8,2,868
+Growth,Energy,Red Hot Chili Peppers,Midwest,2013,8,24,3921
+Growth,Energy,Red Hot Chili Peppers,Midwest,2013,8,51,4381
+Growth,Energy,Red Hot Chili Peppers,Midwest,2013,10,14,2612
+Growth,Energy,Red Hot Chili Peppers,Midwest,2013,11,48,481
+Growth,Energy,Red Hot Chili Peppers,Midwest,2013,12,34,900
+Growth,Energy,Red Hot Chili Peppers,Midwest,2014,2,4,1700
+Growth,Energy,Red Hot Chili Peppers,Midwest,2014,2,55,21037
+Growth,Energy,Red Hot Chili Peppers,Midwest,2014,3,42,16065
+Growth,Energy,Red Hot Chili Peppers,Midwest,2014,3,58,22185
+Growth,Energy,Red Hot Chili Peppers,Midwest,2014,4,57,21802
+Growth,Energy,Red Hot Chili Peppers,Midwest,2014,5,1,425
+Growth,Energy,Red Hot Chili Peppers,Midwest,2014,5,4,1700
+Growth,Energy,Red Hot Chili Peppers,Midwest,2014,5,10,4250
+Growth,Energy,Red Hot Chili Peppers,Midwest,2014,5,17,7225
+Growth,Energy,Red Hot Chili Peppers,Midwest,2014,7,32,13600
+Growth,Energy,Red Hot Chili Peppers,Midwest,2014,9,29,12325
+Growth,Energy,Red Hot Chili Peppers,Midwest,2014,10,49,18742
+Growth,Energy,Red Hot Chili Peppers,Midwest,2014,12,34,14450
+Growth,Energy,Red Hot Chili Peppers,Southeast,2012,1,29,12470
+Growth,Energy,Red Hot Chili Peppers,Southeast,2012,3,16,6880
+Growth,Energy,Red Hot Chili Peppers,Southeast,2012,6,2,860
+Growth,Energy,Red Hot Chili Peppers,Southeast,2012,10,5,2150
+Growth,Energy,Red Hot Chili Peppers,Southeast,2013,2,3,436
+Growth,Energy,Red Hot Chili Peppers,Southeast,2013,4,18,3915
+Growth,Energy,Red Hot Chili Peppers,Southeast,2013,5,23,4353
+Growth,Energy,Red Hot Chili Peppers,Southeast,2013,7,37,3068
+Growth,Energy,Red Hot Chili Peppers,Southeast,2013,8,2,2
+Growth,Energy,Red Hot Chili Peppers,Southeast,2013,8,28,1760
+Growth,Energy,Red Hot Chili Peppers,Southeast,2013,11,34,467
+Growth,Energy,Red Hot Chili Peppers,Southeast,2014,2,30,12750
+Growth,Energy,Red Hot Chili Peppers,Southeast,2014,2,37,14152
+Growth,Energy,Red Hot Chili Peppers,Southeast,2014,4,4,1700
+Growth,Energy,Red Hot Chili Peppers,Western,2012,1,11,4730
+Growth,Energy,Red Hot Chili Peppers,Western,2012,1,11,4730
+Growth,Energy,Red Hot Chili Peppers,Western,2012,2,17,7310
+Growth,Energy,Red Hot Chili Peppers,Western,2012,3,7,3010
+Growth,Energy,Red Hot Chili Peppers,Western,2012,3,23,9890
+Growth,Energy,Red Hot Chili Peppers,Western,2012,3,38,16340
+Growth,Energy,Red Hot Chili Peppers,Western,2012,4,12,5160
+Growth,Energy,Red Hot Chili Peppers,Western,2012,4,26,11180
+Growth,Energy,Red Hot Chili Peppers,Western,2012,6,9,3870
+Growth,Energy,Red Hot Chili Peppers,Western,2012,7,33,14190
+Growth,Energy,Red Hot Chili Peppers,Western,2012,10,39,16770
+Growth,Energy,Red Hot Chili Peppers,Western,2013,1,21,1320
+Growth,Energy,Red Hot Chili Peppers,Western,2013,2,4,1736
+Growth,Energy,Red Hot Chili Peppers,Western,2013,5,41,2206
+Growth,Energy,Red Hot Chili Peppers,Western,2013,7,16,882
+Growth,Energy,Red Hot Chili Peppers,Western,2013,7,16,3913
+Growth,Energy,Red Hot Chili Peppers,Western,2013,7,22,1754
+Growth,Energy,Red Hot Chili Peppers,Western,2013,8,29,462
+Growth,Energy,Red Hot Chili Peppers,Western,2013,8,34,3065
+Growth,Energy,Red Hot Chili Peppers,Western,2013,8,35,2633
+Growth,Energy,Red Hot Chili Peppers,Western,2013,10,9,2174
+Growth,Energy,Red Hot Chili Peppers,Western,2013,10,43,3940
+Growth,Energy,Red Hot Chili Peppers,Western,2013,10,47,4377
+Growth,Energy,Red Hot Chili Peppers,Western,2013,11,52,1784
+Growth,Energy,Red Hot Chili Peppers,Western,2013,11,59,3956
+Growth,Energy,Red Hot Chili Peppers,Western,2013,12,39,39
+Growth,Energy,Red Hot Chili Peppers,Western,2014,2,47,17977
+Growth,Energy,Red Hot Chili Peppers,Western,2014,2,50,19125
+Growth,Energy,Red Hot Chili Peppers,Western,2014,4,26,11050
+Growth,Energy,Red Hot Chili Peppers,Western,2014,4,31,13175
+Growth,Energy,Red Hot Chili Peppers,Western,2014,4,49,18742
+Growth,Energy,Red Hot Chili Peppers,Western,2014,5,56,21420
+Growth,Energy,Red Hot Chili Peppers,Western,2014,6,24,10200
+Growth,Energy,Red Hot Chili Peppers,Western,2014,6,32,13600
+Growth,Energy,Red Hot Chili Peppers,Western,2014,6,57,21802
+Growth,Energy,Red Hot Chili Peppers,Western,2014,9,30,12750
+Growth,Energy,Red Hot Chili Peppers,Western,2014,9,38,14535
+Growth,Energy,Red Hot Chili Peppers,Western,2014,11,52,19890
+Growth,On the go,Blue Rock Candy,Eastern,2012,1,5,2330
+Growth,On the go,Blue Rock Candy,Eastern,2012,1,20,9320
+Growth,On the go,Blue Rock Candy,Eastern,2012,2,39,18174
+Growth,On the go,Blue Rock Candy,Eastern,2012,3,9,4194
+Growth,On the go,Blue Rock Candy,Eastern,2012,3,23,10718
+Growth,On the go,Blue Rock Candy,Eastern,2012,6,19,8854
+Growth,On the go,Blue Rock Candy,Eastern,2012,6,21,9786
+Growth,On the go,Blue Rock Candy,Eastern,2012,6,40,18640
+Growth,On the go,Blue Rock Candy,Eastern,2013,2,14,3918
+Growth,On the go,Blue Rock Candy,Eastern,2013,2,49,3953
+Growth,On the go,Blue Rock Candy,Eastern,2013,2,49,4929
+Growth,On the go,Blue Rock Candy,Eastern,2013,3,27,3443
+Growth,On the go,Blue Rock Candy,Eastern,2013,3,38,38
+Growth,On the go,Blue Rock Candy,Eastern,2013,4,15,3431
+Growth,On the go,Blue Rock Candy,Eastern,2013,5,38,3942
+Growth,On the go,Blue Rock Candy,Eastern,2013,6,4,1468
+Growth,On the go,Blue Rock Candy,Eastern,2013,8,15,1967
+Growth,On the go,Blue Rock Candy,Eastern,2013,8,60,4940
+Growth,On the go,Blue Rock Candy,Eastern,2013,9,50,2978
+Growth,On the go,Blue Rock Candy,Eastern,2013,10,51,2979
+Growth,On the go,Blue Rock Candy,Eastern,2013,11,7,495
+Growth,On the go,Blue Rock Candy,Eastern,2013,11,39,4431
+Growth,On the go,Blue Rock Candy,Eastern,2013,11,50,1514
+Growth,On the go,Blue Rock Candy,Eastern,2014,1,24,12312
+Growth,On the go,Blue Rock Candy,Eastern,2014,1,31,15903
+Growth,On the go,Blue Rock Candy,Eastern,2014,4,36,18468
+Growth,On the go,Blue Rock Candy,Eastern,2014,5,15,7695
+Growth,On the go,Blue Rock Candy,Eastern,2014,5,20,10260
+Growth,On the go,Blue Rock Candy,Eastern,2014,5,28,14364
+Growth,On the go,Blue Rock Candy,Eastern,2014,5,47,21700
+Growth,On the go,Blue Rock Candy,Eastern,2014,5,52,24008
+Growth,On the go,Blue Rock Candy,Eastern,2014,6,14,7182
+Growth,On the go,Blue Rock Candy,Eastern,2014,10,20,10260
+Growth,On the go,Blue Rock Candy,Eastern,2014,10,44,20315
+Growth,On the go,Blue Rock Candy,Eastern,2014,10,50,23085
+Growth,On the go,Blue Rock Candy,Midwest,2012,1,20,9320
+Growth,On the go,Blue Rock Candy,Midwest,2012,1,28,13048
+Growth,On the go,Blue Rock Candy,Midwest,2012,2,12,5592
+Growth,On the go,Blue Rock Candy,Midwest,2012,5,17,7922
+Growth,On the go,Blue Rock Candy,Midwest,2012,6,30,13980
+Growth,On the go,Blue Rock Candy,Midwest,2012,7,4,1864
+Growth,On the go,Blue Rock Candy,Midwest,2012,7,31,14446
+Growth,On the go,Blue Rock Candy,Midwest,2012,8,23,10718
+Growth,On the go,Blue Rock Candy,Midwest,2012,11,35,16310
+Growth,On the go,Blue Rock Candy,Midwest,2012,12,34,15844
+Growth,On the go,Blue Rock Candy,Midwest,2013,3,44,532
+Growth,On the go,Blue Rock Candy,Midwest,2013,6,9,985
+Growth,On the go,Blue Rock Candy,Midwest,2013,6,44,4436
+Growth,On the go,Blue Rock Candy,Midwest,2013,8,44,3460
+Growth,On the go,Blue Rock Candy,Midwest,2013,8,47,3463
+Growth,On the go,Blue Rock Candy,Midwest,2013,8,56,3960
+Growth,On the go,Blue Rock Candy,Midwest,2013,10,19,507
+Growth,On the go,Blue Rock Candy,Midwest,2013,10,45,4437
+Growth,On the go,Blue Rock Candy,Midwest,2014,2,25,12825
+Growth,On the go,Blue Rock Candy,Midwest,2014,4,30,15390
+Growth,On the go,Blue Rock Candy,Midwest,2014,4,33,16929
+Growth,On the go,Blue Rock Candy,Midwest,2014,5,11,5643
+Growth,On the go,Blue Rock Candy,Midwest,2014,5,33,16929
+Growth,On the go,Blue Rock Candy,Midwest,2014,6,3,1539
+Growth,On the go,Blue Rock Candy,Midwest,2014,9,51,23547
+Growth,On the go,Blue Rock Candy,Midwest,2014,10,9,4617
+Growth,On the go,Blue Rock Candy,Midwest,2014,11,11,5643
+Growth,On the go,Blue Rock Candy,Midwest,2014,11,17,8721
+Growth,On the go,Blue Rock Candy,Midwest,2014,11,46,21238
+Growth,On the go,Blue Rock Candy,Southeast,2012,1,2,932
+Growth,On the go,Blue Rock Candy,Southeast,2012,2,18,8388
+Growth,On the go,Blue Rock Candy,Southeast,2012,2,36,16776
+Growth,On the go,Blue Rock Candy,Southeast,2012,5,13,6058
+Growth,On the go,Blue Rock Candy,Southeast,2012,6,39,18174
+Growth,On the go,Blue Rock Candy,Southeast,2012,7,34,15844
+Growth,On the go,Blue Rock Candy,Southeast,2012,9,21,9786
+Growth,On the go,Blue Rock Candy,Southeast,2012,10,31,14446
+Growth,On the go,Blue Rock Candy,Southeast,2012,10,38,17708
+Growth,On the go,Blue Rock Candy,Southeast,2013,5,42,3458
+Growth,On the go,Blue Rock Candy,Southeast,2013,10,24,4416
+Growth,On the go,Blue Rock Candy,Southeast,2013,11,23,2463
+Growth,On the go,Blue Rock Candy,Southeast,2013,12,32,520
+Growth,On the go,Blue Rock Candy,Southeast,2014,6,11,5643
+Growth,On the go,Blue Rock Candy,Southeast,2014,8,18,9234
+Growth,On the go,Blue Rock Candy,Southeast,2014,9,13,6669
+Growth,On the go,Blue Rock Candy,Western,2012,1,23,10718
+Growth,On the go,Blue Rock Candy,Western,2012,1,25,11650
+Growth,On the go,Blue Rock Candy,Western,2012,4,20,9320
+Growth,On the go,Blue Rock Candy,Western,2012,5,18,8388
+Growth,On the go,Blue Rock Candy,Western,2012,7,2,932
+Growth,On the go,Blue Rock Candy,Western,2012,10,32,14912
+Growth,On the go,Blue Rock Candy,Western,2012,11,19,8854
+Growth,On the go,Blue Rock Candy,Western,2013,2,1,1
+Growth,On the go,Blue Rock Candy,Western,2013,2,32,3936
+Growth,On the go,Blue Rock Candy,Western,2013,6,27,1003
+Growth,On the go,Blue Rock Candy,Western,2013,7,17,1481
+Growth,On the go,Blue Rock Candy,Western,2013,9,17,993
+Growth,On the go,Blue Rock Candy,Western,2013,9,21,21
+Growth,On the go,Blue Rock Candy,Western,2013,9,37,2965
+Growth,On the go,Blue Rock Candy,Western,2013,9,37,4429
+Growth,On the go,Blue Rock Candy,Western,2013,10,23,3439
+Growth,On the go,Blue Rock Candy,Western,2014,2,8,4104
+Growth,On the go,Blue Rock Candy,Western,2014,2,14,7182
+Growth,On the go,Blue Rock Candy,Western,2014,3,4,2052
+Growth,On the go,Blue Rock Candy,Western,2014,3,59,27240
+Growth,On the go,Blue Rock Candy,Western,2014,6,38,17545
+Growth,On the go,Blue Rock Candy,Western,2014,6,48,22162
+Growth,On the go,Blue Rock Candy,Western,2014,6,50,23085
+Growth,On the go,Blue Rock Candy,Western,2014,9,1,513
+Growth,On the go,Pink Bubble Gum,Eastern,2012,2,30,9540
+Growth,On the go,Pink Bubble Gum,Eastern,2012,4,26,8268
+Growth,On the go,Pink Bubble Gum,Eastern,2012,7,9,2862
+Growth,On the go,Pink Bubble Gum,Eastern,2012,7,36,11448
+Growth,On the go,Pink Bubble Gum,Eastern,2012,9,12,3816
+Growth,On the go,Pink Bubble Gum,Eastern,2012,9,34,10812
+Growth,On the go,Pink Bubble Gum,Eastern,2012,11,40,12720
+Growth,On the go,Pink Bubble Gum,Eastern,2013,1,7,641
+Growth,On the go,Pink Bubble Gum,Eastern,2013,1,13,647
+Growth,On the go,Pink Bubble Gum,Eastern,2013,2,6,957
+Growth,On the go,Pink Bubble Gum,Eastern,2013,3,23,657
+Growth,On the go,Pink Bubble Gum,Eastern,2013,3,44,44
+Growth,On the go,Pink Bubble Gum,Eastern,2013,5,17,3187
+Growth,On the go,Pink Bubble Gum,Eastern,2013,5,18,18
+Growth,On the go,Pink Bubble Gum,Eastern,2013,5,31,348
+Growth,On the go,Pink Bubble Gum,Eastern,2013,7,34,2887
+Growth,On the go,Pink Bubble Gum,Eastern,2013,9,37,3207
+Growth,On the go,Pink Bubble Gum,Eastern,2013,9,54,2907
+Growth,On the go,Pink Bubble Gum,Eastern,2013,10,24,658
+Growth,On the go,Pink Bubble Gum,Eastern,2013,10,37,1622
+Growth,On the go,Pink Bubble Gum,Eastern,2013,10,58,3228
+Growth,On the go,Pink Bubble Gum,Eastern,2013,12,13,1598
+Growth,On the go,Pink Bubble Gum,Eastern,2014,2,32,10368
+Growth,On the go,Pink Bubble Gum,Eastern,2014,5,36,11664
+Growth,On the go,Pink Bubble Gum,Eastern,2014,6,14,4536
+Growth,On the go,Pink Bubble Gum,Eastern,2014,6,53,15455
+Growth,On the go,Pink Bubble Gum,Eastern,2014,7,20,6480
+Growth,On the go,Pink Bubble Gum,Eastern,2014,9,20,6480
+Growth,On the go,Pink Bubble Gum,Eastern,2014,9,26,8424
+Growth,On the go,Pink Bubble Gum,Eastern,2014,9,53,15455
+Growth,On the go,Pink Bubble Gum,Eastern,2014,10,58,16913
+Growth,On the go,Pink Bubble Gum,Eastern,2014,11,26,8424
+Growth,On the go,Pink Bubble Gum,Eastern,2014,11,57,16621
+Growth,On the go,Pink Bubble Gum,Midwest,2012,1,9,2862
+Growth,On the go,Pink Bubble Gum,Midwest,2012,1,32,10176
+Growth,On the go,Pink Bubble Gum,Midwest,2012,2,6,1908
+Growth,On the go,Pink Bubble Gum,Midwest,2012,3,17,5406
+Growth,On the go,Pink Bubble Gum,Midwest,2012,3,27,8586
+Growth,On the go,Pink Bubble Gum,Midwest,2012,3,36,11448
+Growth,On the go,Pink Bubble Gum,Midwest,2012,3,37,11766
+Growth,On the go,Pink Bubble Gum,Midwest,2012,4,26,8268
+Growth,On the go,Pink Bubble Gum,Midwest,2012,6,6,1908
+Growth,On the go,Pink Bubble Gum,Midwest,2012,9,33,10494
+Growth,On the go,Pink Bubble Gum,Midwest,2012,12,10,3180
+Growth,On the go,Pink Bubble Gum,Midwest,2012,12,18,5724
+Growth,On the go,Pink Bubble Gum,Midwest,2013,1,41,2894
+Growth,On the go,Pink Bubble Gum,Midwest,2013,4,8,1593
+Growth,On the go,Pink Bubble Gum,Midwest,2013,5,25,1927
+Growth,On the go,Pink Bubble Gum,Midwest,2013,6,9,960
+Growth,On the go,Pink Bubble Gum,Midwest,2013,8,18,1603
+Growth,On the go,Pink Bubble Gum,Midwest,2013,8,45,45
+Growth,On the go,Pink Bubble Gum,Midwest,2013,10,14,1599
+Growth,On the go,Pink Bubble Gum,Midwest,2013,10,46,2265
+Growth,On the go,Pink Bubble Gum,Midwest,2013,12,6,323
+Growth,On the go,Pink Bubble Gum,Midwest,2014,1,26,8424
+Growth,On the go,Pink Bubble Gum,Midwest,2014,2,30,9720
+Growth,On the go,Pink Bubble Gum,Midwest,2014,2,44,12830
+Growth,On the go,Pink Bubble Gum,Midwest,2014,4,32,10368
+Growth,On the go,Pink Bubble Gum,Midwest,2014,5,37,10789
+Growth,On the go,Pink Bubble Gum,Midwest,2014,6,34,11016
+Growth,On the go,Pink Bubble Gum,Midwest,2014,7,10,3240
+Growth,On the go,Pink Bubble Gum,Midwest,2014,9,55,16038
+Growth,On the go,Pink Bubble Gum,Midwest,2014,10,19,6156
+Growth,On the go,Pink Bubble Gum,Midwest,2014,10,36,11664
+Growth,On the go,Pink Bubble Gum,Midwest,2014,11,52,15163
+Growth,On the go,Pink Bubble Gum,Midwest,2014,12,54,15746
+Growth,On the go,Pink Bubble Gum,Southeast,2012,5,23,7314
+Growth,On the go,Pink Bubble Gum,Southeast,2012,5,36,11448
+Growth,On the go,Pink Bubble Gum,Southeast,2012,6,10,3180
+Growth,On the go,Pink Bubble Gum,Southeast,2012,8,1,318
+Growth,On the go,Pink Bubble Gum,Southeast,2012,9,1,318
+Growth,On the go,Pink Bubble Gum,Southeast,2012,12,40,12720
+Growth,On the go,Pink Bubble Gum,Southeast,2013,1,23,974
+Growth,On the go,Pink Bubble Gum,Southeast,2013,2,27,3197
+Growth,On the go,Pink Bubble Gum,Southeast,2013,6,38,2891
+Growth,On the go,Pink Bubble Gum,Southeast,2013,7,54,2590
+Growth,On the go,Pink Bubble Gum,Southeast,2014,1,49,14288
+Growth,On the go,Pink Bubble Gum,Southeast,2014,3,15,4860
+Growth,On the go,Pink Bubble Gum,Southeast,2014,3,55,16038
+Growth,On the go,Pink Bubble Gum,Southeast,2014,3,58,16913
+Growth,On the go,Pink Bubble Gum,Southeast,2014,4,19,6156
+Growth,On the go,Pink Bubble Gum,Southeast,2014,10,33,10692
+Growth,On the go,Pink Bubble Gum,Southeast,2014,12,14,4536
+Growth,On the go,Pink Bubble Gum,Western,2012,3,1,318
+Growth,On the go,Pink Bubble Gum,Western,2012,4,5,1590
+Growth,On the go,Pink Bubble Gum,Western,2012,4,23,7314
+Growth,On the go,Pink Bubble Gum,Western,2012,4,28,8904
+Growth,On the go,Pink Bubble Gum,Western,2012,7,26,8268
+Growth,On the go,Pink Bubble Gum,Western,2012,7,32,10176
+Growth,On the go,Pink Bubble Gum,Western,2012,9,29,9222
+Growth,On the go,Pink Bubble Gum,Western,2012,9,33,10494
+Growth,On the go,Pink Bubble Gum,Western,2012,11,23,7314
+Growth,On the go,Pink Bubble Gum,Western,2012,12,1,318
+Growth,On the go,Pink Bubble Gum,Western,2012,12,4,1272
+Growth,On the go,Pink Bubble Gum,Western,2012,12,11,3498
+Growth,On the go,Pink Bubble Gum,Western,2012,12,29,9222
+Growth,On the go,Pink Bubble Gum,Western,2012,12,29,9222
+Growth,On the go,Pink Bubble Gum,Western,2013,1,15,2551
+Growth,On the go,Pink Bubble Gum,Western,2013,3,53,1638
+Growth,On the go,Pink Bubble Gum,Western,2013,5,12,2548
+Growth,On the go,Pink Bubble Gum,Western,2013,9,50,684
+Growth,On the go,Pink Bubble Gum,Western,2013,11,21,972
+Growth,On the go,Pink Bubble Gum,Western,2013,11,52,2588
+Growth,On the go,Pink Bubble Gum,Western,2013,12,6,323
+Growth,On the go,Pink Bubble Gum,Western,2014,1,1,324
+Growth,On the go,Pink Bubble Gum,Western,2014,1,52,15163
+Growth,On the go,Pink Bubble Gum,Western,2014,3,10,3240
+Growth,On the go,Pink Bubble Gum,Western,2014,3,29,9396
+Growth,On the go,Pink Bubble Gum,Western,2014,4,31,10044
+Growth,On the go,Pink Bubble Gum,Western,2014,4,47,13705
+Growth,On the go,Pink Bubble Gum,Western,2014,5,22,7128
+Growth,On the go,Pink Bubble Gum,Western,2014,5,32,10368
+Growth,On the go,Pink Bubble Gum,Western,2014,6,42,12247
+Growth,On the go,Pink Bubble Gum,Western,2014,7,55,16038
+Growth,On the go,Pink Bubble Gum,Western,2014,8,43,12539
+Growth,On the go,Pink Bubble Gum,Western,2014,9,7,2268
+Growth,On the go,Pink Bubble Gum,Western,2014,10,24,7776
+Growth,On the go,Pink Bubble Gum,Western,2014,11,2,648
+Growth,On the go,Pink Bubble Gum,Western,2014,11,4,1296
+Growth,On the go,Pink Bubble Gum,Western,2014,11,6,1944
+Growth,On the go,Pink Bubble Gum,Western,2014,12,9,2916
+Growth,Snack,Crocodile Tears,Eastern,2012,1,14,3948
+Growth,Snack,Crocodile Tears,Eastern,2012,1,31,8742
+Growth,Snack,Crocodile Tears,Eastern,2012,3,23,6486
+Growth,Snack,Crocodile Tears,Eastern,2012,4,21,5922
+Growth,Snack,Crocodile Tears,Eastern,2012,4,40,11280
+Growth,Snack,Crocodile Tears,Eastern,2012,5,26,7332
+Growth,Snack,Crocodile Tears,Eastern,2012,7,2,564
+Growth,Snack,Crocodile Tears,Eastern,2012,7,30,8460
+Growth,Snack,Crocodile Tears,Eastern,2012,8,14,3948
+Growth,Snack,Crocodile Tears,Eastern,2012,8,29,8178
+Growth,Snack,Crocodile Tears,Eastern,2012,9,3,846
+Growth,Snack,Crocodile Tears,Eastern,2012,9,25,7050
+Growth,Snack,Crocodile Tears,Eastern,2012,10,22,6204
+Growth,Snack,Crocodile Tears,Eastern,2012,11,40,11280
+Growth,Snack,Crocodile Tears,Eastern,2013,2,14,598
+Growth,Snack,Crocodile Tears,Eastern,2013,2,43,1211
+Growth,Snack,Crocodile Tears,Eastern,2013,3,23,2943
+Growth,Snack,Crocodile Tears,Eastern,2013,4,28,1196
+Growth,Snack,Crocodile Tears,Eastern,2013,5,58,2978
+Growth,Snack,Crocodile Tears,Eastern,2013,7,53,2973
+Growth,Snack,Crocodile Tears,Eastern,2013,9,37,1497
+Growth,Snack,Crocodile Tears,Eastern,2013,11,15,2643
+Growth,Snack,Crocodile Tears,Eastern,2013,11,36,328
+Growth,Snack,Crocodile Tears,Eastern,2013,11,40,2084
+Growth,Snack,Crocodile Tears,Eastern,2013,12,46,2966
+Growth,Snack,Crocodile Tears,Eastern,2014,2,5,1450
+Growth,Snack,Crocodile Tears,Eastern,2014,2,33,9570
+Growth,Snack,Crocodile Tears,Eastern,2014,3,49,12789
+Growth,Snack,Crocodile Tears,Eastern,2014,4,13,3770
+Growth,Snack,Crocodile Tears,Eastern,2014,4,42,10962
+Growth,Snack,Crocodile Tears,Eastern,2014,5,47,12267
+Growth,Snack,Crocodile Tears,Eastern,2014,6,15,4350
+Growth,Snack,Crocodile Tears,Eastern,2014,8,43,11223
+Growth,Snack,Crocodile Tears,Eastern,2014,9,44,11484
+Growth,Snack,Crocodile Tears,Eastern,2014,9,49,12789
+Growth,Snack,Crocodile Tears,Eastern,2014,11,38,9918
+Growth,Snack,Crocodile Tears,Eastern,2014,11,50,13050
+Growth,Snack,Crocodile Tears,Eastern,2014,12,59,15399
+Growth,Snack,Crocodile Tears,Midwest,2012,1,25,7050
+Growth,Snack,Crocodile Tears,Midwest,2012,2,23,6486
+Growth,Snack,Crocodile Tears,Midwest,2012,4,2,564
+Growth,Snack,Crocodile Tears,Midwest,2012,4,30,8460
+Growth,Snack,Crocodile Tears,Midwest,2012,7,5,1410
+Growth,Snack,Crocodile Tears,Midwest,2012,9,1,282
+Growth,Snack,Crocodile Tears,Midwest,2012,9,10,2820
+Growth,Snack,Crocodile Tears,Midwest,2012,12,5,1410
+Growth,Snack,Crocodile Tears,Midwest,2012,12,21,5922
+Growth,Snack,Crocodile Tears,Midwest,2012,12,21,5922
+Growth,Snack,Crocodile Tears,Midwest,2012,12,29,8178
+Growth,Snack,Crocodile Tears,Midwest,2013,1,49,49
+Growth,Snack,Crocodile Tears,Midwest,2013,2,11,2055
+Growth,Snack,Crocodile Tears,Midwest,2013,2,24,1192
+Growth,Snack,Crocodile Tears,Midwest,2013,3,51,1803
+Growth,Snack,Crocodile Tears,Midwest,2013,4,37,913
+Growth,Snack,Crocodile Tears,Midwest,2013,7,6,590
+Growth,Snack,Crocodile Tears,Midwest,2013,7,25,2945
+Growth,Snack,Crocodile Tears,Midwest,2013,8,26,2070
+Growth,Snack,Crocodile Tears,Midwest,2013,9,22,2066
+Growth,Snack,Crocodile Tears,Midwest,2013,9,58,2394
+Growth,Snack,Crocodile Tears,Midwest,2013,11,3,3
+Growth,Snack,Crocodile Tears,Midwest,2013,12,28,1488
+Growth,Snack,Crocodile Tears,Midwest,2014,1,8,2320
+Growth,Snack,Crocodile Tears,Midwest,2014,1,20,5800
+Growth,Snack,Crocodile Tears,Midwest,2014,2,42,10962
+Growth,Snack,Crocodile Tears,Midwest,2014,4,55,14355
+Growth,Snack,Crocodile Tears,Midwest,2014,8,14,4060
+Growth,Snack,Crocodile Tears,Midwest,2014,10,28,8120
+Growth,Snack,Crocodile Tears,Midwest,2014,10,28,8120
+Growth,Snack,Crocodile Tears,Midwest,2014,11,29,8410
+Growth,Snack,Crocodile Tears,Midwest,2014,11,51,13311
+Growth,Snack,Crocodile Tears,Midwest,2014,11,60,15660
+Growth,Snack,Crocodile Tears,Southeast,2012,2,38,10716
+Growth,Snack,Crocodile Tears,Southeast,2012,2,39,10998
+Growth,Snack,Crocodile Tears,Southeast,2012,7,36,10152
+Growth,Snack,Crocodile Tears,Southeast,2012,8,4,1128
+Growth,Snack,Crocodile Tears,Southeast,2012,9,8,2256
+Growth,Snack,Crocodile Tears,Southeast,2012,12,30,8460
+Growth,Snack,Crocodile Tears,Southeast,2012,12,40,11280
+Growth,Snack,Crocodile Tears,Southeast,2013,1,16,2060
+Growth,Snack,Crocodile Tears,Southeast,2013,5,48,2092
+Growth,Snack,Crocodile Tears,Southeast,2013,9,39,2959
+Growth,Snack,Crocodile Tears,Southeast,2014,1,37,9657
+Growth,Snack,Crocodile Tears,Southeast,2014,3,11,3190
+Growth,Snack,Crocodile Tears,Southeast,2014,4,40,10440
+Growth,Snack,Crocodile Tears,Southeast,2014,5,22,6380
+Growth,Snack,Crocodile Tears,Southeast,2014,6,24,6960
+Growth,Snack,Crocodile Tears,Southeast,2014,6,45,11745
+Growth,Snack,Crocodile Tears,Southeast,2014,7,33,9570
+Growth,Snack,Crocodile Tears,Southeast,2014,7,37,9657
+Growth,Snack,Crocodile Tears,Southeast,2014,11,17,4930
+Growth,Snack,Crocodile Tears,Western,2012,1,4,1128
+Growth,Snack,Crocodile Tears,Western,2012,2,33,9306
+Growth,Snack,Crocodile Tears,Western,2012,2,39,10998
+Growth,Snack,Crocodile Tears,Western,2012,4,2,564
+Growth,Snack,Crocodile Tears,Western,2012,4,20,5640
+Growth,Snack,Crocodile Tears,Western,2012,6,15,4230
+Growth,Snack,Crocodile Tears,Western,2012,6,20,5640
+Growth,Snack,Crocodile Tears,Western,2012,7,9,2538
+Growth,Snack,Crocodile Tears,Western,2012,7,19,5358
+Growth,Snack,Crocodile Tears,Western,2012,7,36,10152
+Growth,Snack,Crocodile Tears,Western,2012,8,6,1692
+Growth,Snack,Crocodile Tears,Western,2012,10,11,3102
+Growth,Snack,Crocodile Tears,Western,2012,10,14,3948
+Growth,Snack,Crocodile Tears,Western,2012,11,8,2256
+Growth,Snack,Crocodile Tears,Western,2012,11,11,3102
+Growth,Snack,Crocodile Tears,Western,2012,11,16,4512
+Growth,Snack,Crocodile Tears,Western,2012,12,20,5640
+Growth,Snack,Crocodile Tears,Western,2013,2,24,2068
+Growth,Snack,Crocodile Tears,Western,2013,2,39,623
+Growth,Snack,Crocodile Tears,Western,2013,4,28,1196
+Growth,Snack,Crocodile Tears,Western,2013,4,38,2958
+Growth,Snack,Crocodile Tears,Western,2013,6,7,1467
+Growth,Snack,Crocodile Tears,Western,2013,6,49,1217
+Growth,Snack,Crocodile Tears,Western,2013,7,17,893
+Growth,Snack,Crocodile Tears,Western,2013,7,34,2662
+Growth,Snack,Crocodile Tears,Western,2013,9,27,1779
+Growth,Snack,Crocodile Tears,Western,2013,10,22,2650
+Growth,Snack,Crocodile Tears,Western,2013,10,55,2683
+Growth,Snack,Crocodile Tears,Western,2013,11,20,604
+Growth,Snack,Crocodile Tears,Western,2013,11,43,2671
+Growth,Snack,Crocodile Tears,Western,2013,11,48,924
+Growth,Snack,Crocodile Tears,Western,2013,11,55,2391
+Growth,Snack,Crocodile Tears,Western,2013,12,6,1466
+Growth,Snack,Crocodile Tears,Western,2013,12,23,2359
+Growth,Snack,Crocodile Tears,Western,2013,12,53,2389
+Growth,Snack,Crocodile Tears,Western,2014,2,19,5510
+Growth,Snack,Crocodile Tears,Western,2014,4,6,1740
+Growth,Snack,Crocodile Tears,Western,2014,4,10,2900
+Growth,Snack,Crocodile Tears,Western,2014,4,34,9860
+Growth,Snack,Crocodile Tears,Western,2014,5,46,12006
+Growth,Snack,Crocodile Tears,Western,2014,7,10,2900
+Growth,Snack,Crocodile Tears,Western,2014,7,34,9860
+Growth,Snack,Crocodile Tears,Western,2014,8,20,5800
+Growth,Snack,Crocodile Tears,Western,2014,8,33,9570
+Growth,Snack,Crocodile Tears,Western,2014,8,47,12267
+Growth,Snack,Crocodile Tears,Western,2014,10,41,10701
+Growth,Snack,Crocodile Tears,Western,2014,11,31,8990
+Growth,Snack,Crocodile Tears,Western,2014,11,59,15399
+Growth,Snack,Crocodile Tears,Western,2014,12,23,6670
+Growth,Snack,Crocodile Tears,Western,2014,12,26,7540
+Growth,Snack,Crocodile Tears,Western,2014,12,45,11745
+Mature,Health,Panda Gummies,Eastern,2012,1,33,4818
+Mature,Health,Panda Gummies,Eastern,2012,3,16,2336
+Mature,Health,Panda Gummies,Eastern,2012,3,16,2336
+Mature,Health,Panda Gummies,Eastern,2012,5,28,4088
+Mature,Health,Panda Gummies,Eastern,2012,6,38,5548
+Mature,Health,Panda Gummies,Eastern,2012,8,32,4672
+Mature,Health,Panda Gummies,Eastern,2012,8,39,5694
+Mature,Health,Panda Gummies,Eastern,2012,9,24,3504
+Mature,Health,Panda Gummies,Eastern,2012,11,4,584
+Mature,Health,Panda Gummies,Eastern,2012,11,8,1168
+Mature,Health,Panda Gummies,Eastern,2012,11,11,1606
+Mature,Health,Panda Gummies,Eastern,2012,11,14,2044
+Mature,Health,Panda Gummies,Eastern,2012,11,20,2920
+Mature,Health,Panda Gummies,Eastern,2012,11,33,4818
+Mature,Health,Panda Gummies,Eastern,2012,12,14,2044
+Mature,Health,Panda Gummies,Eastern,2012,12,37,5402
+Mature,Health,Panda Gummies,Eastern,2013,2,49,1529
+Mature,Health,Panda Gummies,Eastern,2013,4,23,615
+Mature,Health,Panda Gummies,Eastern,2013,5,46,786
+Mature,Health,Panda Gummies,Eastern,2013,6,45,1525
+Mature,Health,Panda Gummies,Eastern,2013,7,9,601
+Mature,Health,Panda Gummies,Eastern,2013,7,9,1045
+Mature,Health,Panda Gummies,Eastern,2013,7,34,922
+Mature,Health,Panda Gummies,Eastern,2013,8,19,759
+Mature,Health,Panda Gummies,Eastern,2013,8,21,909
+Mature,Health,Panda Gummies,Eastern,2013,8,37,777
+Mature,Health,Panda Gummies,Eastern,2013,9,17,1053
+Mature,Health,Panda Gummies,Eastern,2013,11,22,762
+Mature,Health,Panda Gummies,Eastern,2013,11,56,944
+Mature,Health,Panda Gummies,Eastern,2013,12,33,1513
+Mature,Health,Panda Gummies,Eastern,2014,1,18,2664
+Mature,Health,Panda Gummies,Eastern,2014,1,43,5728
+Mature,Health,Panda Gummies,Eastern,2014,2,4,592
+Mature,Health,Panda Gummies,Eastern,2014,2,34,5032
+Mature,Health,Panda Gummies,Eastern,2014,4,27,3996
+Mature,Health,Panda Gummies,Eastern,2014,5,48,6394
+Mature,Health,Panda Gummies,Eastern,2014,7,16,2368
+Mature,Health,Panda Gummies,Eastern,2014,7,60,7992
+Mature,Health,Panda Gummies,Eastern,2014,8,49,6527
+Mature,Health,Panda Gummies,Eastern,2014,8,53,7060
+Mature,Health,Panda Gummies,Eastern,2014,11,23,3404
+Mature,Health,Panda Gummies,Eastern,2014,11,27,3996
+Mature,Health,Panda Gummies,Midwest,2012,1,14,2044
+Mature,Health,Panda Gummies,Midwest,2012,1,37,5402
+Mature,Health,Panda Gummies,Midwest,2012,3,26,3796
+Mature,Health,Panda Gummies,Midwest,2012,5,18,2628
+Mature,Health,Panda Gummies,Midwest,2012,6,15,2190
+Mature,Health,Panda Gummies,Midwest,2012,7,2,292
+Mature,Health,Panda Gummies,Midwest,2012,7,36,5256
+Mature,Health,Panda Gummies,Midwest,2012,8,17,2482
+Mature,Health,Panda Gummies,Midwest,2012,12,40,5840
+Mature,Health,Panda Gummies,Midwest,2013,1,44,44
+Mature,Health,Panda Gummies,Midwest,2013,5,47,1379
+Mature,Health,Panda Gummies,Midwest,2013,6,10,602
+Mature,Health,Panda Gummies,Midwest,2013,6,30,1066
+Mature,Health,Panda Gummies,Midwest,2013,6,39,187
+Mature,Health,Panda Gummies,Midwest,2013,7,20,464
+Mature,Health,Panda Gummies,Midwest,2013,7,23,23
+Mature,Health,Panda Gummies,Midwest,2013,8,25,173
+Mature,Health,Panda Gummies,Midwest,2013,8,46,638
+Mature,Health,Panda Gummies,Midwest,2013,9,40,40
+Mature,Health,Panda Gummies,Midwest,2013,10,8,1192
+Mature,Health,Panda Gummies,Midwest,2013,10,22,1502
+Mature,Health,Panda Gummies,Midwest,2013,10,51,643
+Mature,Health,Panda Gummies,Midwest,2013,10,52,1088
+Mature,Health,Panda Gummies,Midwest,2013,10,54,1386
+Mature,Health,Panda Gummies,Midwest,2013,11,22,910
+Mature,Health,Panda Gummies,Midwest,2013,11,34,1366
+Mature,Health,Panda Gummies,Midwest,2014,1,57,7592
+Mature,Health,Panda Gummies,Midwest,2014,3,34,5032
+Mature,Health,Panda Gummies,Midwest,2014,4,4,592
+Mature,Health,Panda Gummies,Midwest,2014,4,11,1628
+Mature,Health,Panda Gummies,Midwest,2014,5,16,2368
+Mature,Health,Panda Gummies,Midwest,2014,6,59,7859
+Mature,Health,Panda Gummies,Midwest,2014,8,31,4588
+Mature,Health,Panda Gummies,Midwest,2014,9,2,296
+Mature,Health,Panda Gummies,Midwest,2014,10,2,296
+Mature,Health,Panda Gummies,Midwest,2014,11,16,2368
+Mature,Health,Panda Gummies,Southeast,2012,2,18,2628
+Mature,Health,Panda Gummies,Southeast,2012,2,35,5110
+Mature,Health,Panda Gummies,Southeast,2012,3,12,1752
+Mature,Health,Panda Gummies,Southeast,2012,7,24,3504
+Mature,Health,Panda Gummies,Southeast,2012,8,7,1022
+Mature,Health,Panda Gummies,Southeast,2012,10,39,5694
+Mature,Health,Panda Gummies,Southeast,2012,11,17,2482
+Mature,Health,Panda Gummies,Southeast,2012,12,22,3212
+Mature,Health,Panda Gummies,Southeast,2013,7,37,481
+Mature,Health,Panda Gummies,Southeast,2013,7,51,1531
+Mature,Health,Panda Gummies,Southeast,2013,12,4,300
+Mature,Health,Panda Gummies,Southeast,2013,12,52,1088
+Mature,Health,Panda Gummies,Southeast,2014,1,51,6793
+Mature,Health,Panda Gummies,Southeast,2014,2,7,1036
+Mature,Health,Panda Gummies,Southeast,2014,8,37,4928
+Mature,Health,Panda Gummies,Southeast,2014,8,55,7326
+Mature,Health,Panda Gummies,Southeast,2014,9,19,2812
+Mature,Health,Panda Gummies,Southeast,2014,10,1,148
+Mature,Health,Panda Gummies,Western,2012,1,11,1606
+Mature,Health,Panda Gummies,Western,2012,1,20,2920
+Mature,Health,Panda Gummies,Western,2012,2,3,438
+Mature,Health,Panda Gummies,Western,2012,3,18,2628
+Mature,Health,Panda Gummies,Western,2012,5,7,1022
+Mature,Health,Panda Gummies,Western,2012,5,9,1314
+Mature,Health,Panda Gummies,Western,2012,5,24,3504
+Mature,Health,Panda Gummies,Western,2012,5,25,3650
+Mature,Health,Panda Gummies,Western,2012,6,5,730
+Mature,Health,Panda Gummies,Western,2012,7,23,3358
+Mature,Health,Panda Gummies,Western,2012,7,32,4672
+Mature,Health,Panda Gummies,Western,2013,1,13,753
+Mature,Health,Panda Gummies,Western,2013,4,8,600
+Mature,Health,Panda Gummies,Western,2013,6,6,450
+Mature,Health,Panda Gummies,Western,2013,6,33,329
+Mature,Health,Panda Gummies,Western,2013,6,42,338
+Mature,Health,Panda Gummies,Western,2013,7,51,495
+Mature,Health,Panda Gummies,Western,2013,8,20,316
+Mature,Health,Panda Gummies,Western,2013,8,49,197
+Mature,Health,Panda Gummies,Western,2013,9,48,196
+Mature,Health,Panda Gummies,Western,2013,11,42,338
+Mature,Health,Panda Gummies,Western,2013,12,55,943
+Mature,Health,Panda Gummies,Western,2014,2,34,5032
+Mature,Health,Panda Gummies,Western,2014,2,49,6527
+Mature,Health,Panda Gummies,Western,2014,3,60,7992
+Mature,Health,Panda Gummies,Western,2014,4,58,7726
+Mature,Health,Panda Gummies,Western,2014,4,58,7726
+Mature,Health,Panda Gummies,Western,2014,7,19,2812
+Mature,Health,Panda Gummies,Western,2014,8,22,3256
+Mature,Health,Panda Gummies,Western,2014,10,58,7726
+Mature,Health,Panda Gummies,Western,2014,12,1,148
+Mature,Lunchtime,Green Lightning,Eastern,2013,1,16,810
+Mature,Lunchtime,Green Lightning,Eastern,2013,1,31,1222
+Mature,Lunchtime,Green Lightning,Eastern,2013,1,35,1226
+Mature,Lunchtime,Green Lightning,Eastern,2013,1,48,842
+Mature,Lunchtime,Green Lightning,Eastern,2013,2,46,1237
+Mature,Lunchtime,Green Lightning,Eastern,2013,4,19,1210
+Mature,Lunchtime,Green Lightning,Eastern,2013,5,28,1616
+Mature,Lunchtime,Green Lightning,Eastern,2013,5,44,3220
+Mature,Lunchtime,Green Lightning,Eastern,2013,5,52,4022
+Mature,Lunchtime,Green Lightning,Eastern,2013,5,53,3626
+Mature,Lunchtime,Green Lightning,Eastern,2013,7,46,1237
+Mature,Lunchtime,Green Lightning,Eastern,2013,8,20,2005
+Mature,Lunchtime,Green Lightning,Eastern,2013,9,19,1210
+Mature,Lunchtime,Green Lightning,Eastern,2013,9,21,1212
+Mature,Lunchtime,Green Lightning,Eastern,2013,9,47,1238
+Mature,Lunchtime,Green Lightning,Eastern,2013,10,12,1203
+Mature,Lunchtime,Green Lightning,Eastern,2013,11,28,425
+Mature,Lunchtime,Green Lightning,Eastern,2014,1,10,3900
+Mature,Lunchtime,Green Lightning,Eastern,2014,1,26,10140
+Mature,Lunchtime,Green Lightning,Eastern,2014,2,42,14742
+Mature,Lunchtime,Green Lightning,Eastern,2014,6,21,8190
+Mature,Lunchtime,Green Lightning,Eastern,2014,6,47,16497
+Mature,Lunchtime,Green Lightning,Eastern,2014,7,9,3510
+Mature,Lunchtime,Green Lightning,Eastern,2014,8,9,3510
+Mature,Lunchtime,Green Lightning,Eastern,2014,8,37,12987
+Mature,Lunchtime,Green Lightning,Eastern,2014,10,4,1560
+Mature,Lunchtime,Green Lightning,Eastern,2014,10,17,6630
+Mature,Lunchtime,Green Lightning,Eastern,2014,10,47,16497
+Mature,Lunchtime,Green Lightning,Eastern,2014,11,41,14391
+Mature,Lunchtime,Green Lightning,Eastern,2014,12,24,9360
+Mature,Lunchtime,Green Lightning,Eastern,2014,12,30,11700
+Mature,Lunchtime,Green Lightning,Eastern,2014,12,35,13650
+Mature,Lunchtime,Green Lightning,Midwest,2013,1,5,799
+Mature,Lunchtime,Green Lightning,Midwest,2013,2,11,2790
+Mature,Lunchtime,Green Lightning,Midwest,2013,2,22,3595
+Mature,Lunchtime,Green Lightning,Midwest,2013,3,24,1612
+Mature,Lunchtime,Green Lightning,Midwest,2013,4,15,1603
+Mature,Lunchtime,Green Lightning,Midwest,2013,4,34,3210
+Mature,Lunchtime,Green Lightning,Midwest,2013,4,44,2426
+Mature,Lunchtime,Green Lightning,Midwest,2013,5,24,1612
+Mature,Lunchtime,Green Lightning,Midwest,2013,5,33,33
+Mature,Lunchtime,Green Lightning,Midwest,2013,6,31,2413
+Mature,Lunchtime,Green Lightning,Midwest,2013,8,42,1630
+Mature,Lunchtime,Green Lightning,Midwest,2013,10,22,22
+Mature,Lunchtime,Green Lightning,Midwest,2013,11,7,801
+Mature,Lunchtime,Green Lightning,Midwest,2014,1,25,9750
+Mature,Lunchtime,Green Lightning,Midwest,2014,3,54,18954
+Mature,Lunchtime,Green Lightning,Midwest,2014,4,35,13650
+Mature,Lunchtime,Green Lightning,Midwest,2014,6,26,10140
+Mature,Lunchtime,Green Lightning,Midwest,2014,12,29,11310
+Mature,Lunchtime,Green Lightning,Southeast,2013,2,33,430
+Mature,Lunchtime,Green Lightning,Southeast,2013,3,50,447
+Mature,Lunchtime,Green Lightning,Southeast,2013,4,11,3187
+Mature,Lunchtime,Green Lightning,Southeast,2013,6,12,3188
+Mature,Lunchtime,Green Lightning,Southeast,2013,6,49,4019
+Mature,Lunchtime,Green Lightning,Southeast,2013,12,15,15
+Mature,Lunchtime,Green Lightning,Southeast,2013,12,22,3198
+Mature,Lunchtime,Green Lightning,Southeast,2014,2,18,7020
+Mature,Lunchtime,Green Lightning,Southeast,2014,2,50,17550
+Mature,Lunchtime,Green Lightning,Southeast,2014,4,28,10920
+Mature,Lunchtime,Green Lightning,Southeast,2014,4,51,17901
+Mature,Lunchtime,Green Lightning,Southeast,2014,6,58,20358
+Mature,Lunchtime,Green Lightning,Southeast,2014,10,17,6630
+Mature,Lunchtime,Green Lightning,Western,2013,3,35,2417
+Mature,Lunchtime,Green Lightning,Western,2013,3,49,1637
+Mature,Lunchtime,Green Lightning,Western,2013,4,40,437
+Mature,Lunchtime,Green Lightning,Western,2013,5,31,1619
+Mature,Lunchtime,Green Lightning,Western,2013,5,34,2813
+Mature,Lunchtime,Green Lightning,Western,2013,6,19,3989
+Mature,Lunchtime,Green Lightning,Western,2013,9,4,4
+Mature,Lunchtime,Green Lightning,Western,2013,9,17,3987
+Mature,Lunchtime,Green Lightning,Western,2013,10,17,2002
+Mature,Lunchtime,Green Lightning,Western,2013,10,29,1220
+Mature,Lunchtime,Green Lightning,Western,2013,11,13,3189
+Mature,Lunchtime,Green Lightning,Western,2013,11,27,27
+Mature,Lunchtime,Green Lightning,Western,2014,1,5,1950
+Mature,Lunchtime,Green Lightning,Western,2014,2,11,4290
+Mature,Lunchtime,Green Lightning,Western,2014,3,2,780
+Mature,Lunchtime,Green Lightning,Western,2014,4,8,3120
+Mature,Lunchtime,Green Lightning,Western,2014,4,37,12987
+Mature,Lunchtime,Green Lightning,Western,2014,6,45,15795
+Mature,Lunchtime,Green Lightning,Western,2014,7,44,15444
+Mature,Lunchtime,Green Lightning,Western,2014,8,24,9360
+Mature,Lunchtime,Green Lightning,Western,2014,9,34,13260
+Mature,Lunchtime,Green Lightning,Western,2014,11,18,7020
+Mature,Lunchtime,Orange Creepies,Eastern,2014,1,13,6058
+Mature,Lunchtime,Orange Creepies,Eastern,2014,1,53,22228
+Mature,Lunchtime,Orange Creepies,Eastern,2014,2,7,3262
+Mature,Lunchtime,Orange Creepies,Eastern,2014,3,8,3728
+Mature,Lunchtime,Orange Creepies,Eastern,2014,4,12,5592
+Mature,Lunchtime,Orange Creepies,Eastern,2014,5,32,14912
+Mature,Lunchtime,Orange Creepies,Eastern,2014,7,55,23067
+Mature,Lunchtime,Orange Creepies,Eastern,2014,8,12,5592
+Mature,Lunchtime,Orange Creepies,Eastern,2014,9,6,2796
+Mature,Lunchtime,Orange Creepies,Eastern,2014,10,35,16310
+Mature,Lunchtime,Orange Creepies,Eastern,2014,11,22,10252
+Mature,Lunchtime,Orange Creepies,Eastern,2014,11,29,13514
+Mature,Lunchtime,Orange Creepies,Eastern,2014,11,44,18454
+Mature,Lunchtime,Orange Creepies,Eastern,2014,11,45,18873
+Mature,Lunchtime,Orange Creepies,Eastern,2014,12,47,19712
+Mature,Lunchtime,Orange Creepies,Midwest,2014,3,53,22228
+Mature,Lunchtime,Orange Creepies,Midwest,2014,4,55,23067
+Mature,Lunchtime,Orange Creepies,Midwest,2014,7,3,1398
+Mature,Lunchtime,Orange Creepies,Midwest,2014,7,5,2330
+Mature,Lunchtime,Orange Creepies,Midwest,2014,11,47,19712
+Mature,Lunchtime,Orange Creepies,Midwest,2014,12,58,24325
+Mature,Lunchtime,Orange Creepies,Southeast,2014,1,58,24325
+Mature,Lunchtime,Orange Creepies,Southeast,2014,5,44,18454
+Mature,Lunchtime,Orange Creepies,Southeast,2014,6,19,8854
+Mature,Lunchtime,Orange Creepies,Southeast,2014,7,30,13980
+Mature,Lunchtime,Orange Creepies,Southeast,2014,7,44,18454
+Mature,Lunchtime,Orange Creepies,Southeast,2014,8,39,16357
+Mature,Lunchtime,Orange Creepies,Southeast,2014,12,39,16357
+Mature,Lunchtime,Orange Creepies,Western,2014,1,15,6990
+Mature,Lunchtime,Orange Creepies,Western,2014,2,45,18873
+Mature,Lunchtime,Orange Creepies,Western,2014,3,56,23486
+Mature,Lunchtime,Orange Creepies,Western,2014,5,22,10252
+Mature,Lunchtime,Orange Creepies,Western,2014,5,38,15937
+Mature,Lunchtime,Orange Creepies,Western,2014,8,8,3728
+Mature,Lunchtime,Orange Creepies,Western,2014,9,60,25164
+Mature,Lunchtime,Yellow Zonkers,Eastern,2012,1,9,2322
+Mature,Lunchtime,Yellow Zonkers,Eastern,2012,1,31,7998
+Mature,Lunchtime,Yellow Zonkers,Eastern,2012,2,14,3612
+Mature,Lunchtime,Yellow Zonkers,Eastern,2012,2,29,7482
+Mature,Lunchtime,Yellow Zonkers,Eastern,2012,2,38,9804
+Mature,Lunchtime,Yellow Zonkers,Eastern,2012,4,7,1806
+Mature,Lunchtime,Yellow Zonkers,Eastern,2012,4,10,2580
+Mature,Lunchtime,Yellow Zonkers,Eastern,2012,5,10,2580
+Mature,Lunchtime,Yellow Zonkers,Eastern,2012,6,39,10062
+Mature,Lunchtime,Yellow Zonkers,Eastern,2012,7,5,1290
+Mature,Lunchtime,Yellow Zonkers,Eastern,2012,7,12,3096
+Mature,Lunchtime,Yellow Zonkers,Eastern,2012,9,38,9804
+Mature,Lunchtime,Yellow Zonkers,Eastern,2012,11,35,9030
+Mature,Lunchtime,Yellow Zonkers,Eastern,2013,1,19,1531
+Mature,Lunchtime,Yellow Zonkers,Eastern,2013,1,32,536
+Mature,Lunchtime,Yellow Zonkers,Eastern,2013,2,13,1525
+Mature,Lunchtime,Yellow Zonkers,Eastern,2013,2,15,2283
+Mature,Lunchtime,Yellow Zonkers,Eastern,2013,3,33,1041
+Mature,Lunchtime,Yellow Zonkers,Eastern,2013,4,25,529
+Mature,Lunchtime,Yellow Zonkers,Eastern,2013,4,41,1805
+Mature,Lunchtime,Yellow Zonkers,Eastern,2013,4,48,1056
+Mature,Lunchtime,Yellow Zonkers,Eastern,2013,5,27,1035
+Mature,Lunchtime,Yellow Zonkers,Eastern,2013,5,41,1553
+Mature,Lunchtime,Yellow Zonkers,Eastern,2013,6,35,2555
+Mature,Lunchtime,Yellow Zonkers,Eastern,2013,9,12,12
+Mature,Lunchtime,Yellow Zonkers,Eastern,2013,10,39,2055
+Mature,Lunchtime,Yellow Zonkers,Eastern,2013,10,48,300
+Mature,Lunchtime,Yellow Zonkers,Eastern,2013,10,57,2325
+Mature,Lunchtime,Yellow Zonkers,Eastern,2014,1,3,789
+Mature,Lunchtime,Yellow Zonkers,Eastern,2014,2,38,8995
+Mature,Lunchtime,Yellow Zonkers,Eastern,2014,3,11,2893
+Mature,Lunchtime,Yellow Zonkers,Eastern,2014,6,24,6312
+Mature,Lunchtime,Yellow Zonkers,Eastern,2014,6,54,12782
+Mature,Lunchtime,Yellow Zonkers,Eastern,2014,7,16,4208
+Mature,Lunchtime,Yellow Zonkers,Eastern,2014,7,27,7101
+Mature,Lunchtime,Yellow Zonkers,Eastern,2014,8,41,9705
+Mature,Lunchtime,Yellow Zonkers,Eastern,2014,9,38,8995
+Mature,Lunchtime,Yellow Zonkers,Eastern,2014,9,39,9231
+Mature,Lunchtime,Yellow Zonkers,Eastern,2014,10,55,13018
+Mature,Lunchtime,Yellow Zonkers,Eastern,2014,11,60,14202
+Mature,Lunchtime,Yellow Zonkers,Eastern,2014,12,15,3945
+Mature,Lunchtime,Yellow Zonkers,Eastern,2014,12,34,8942
+Mature,Lunchtime,Yellow Zonkers,Eastern,2014,12,39,9231
+Mature,Lunchtime,Yellow Zonkers,Midwest,2012,3,36,9288
+Mature,Lunchtime,Yellow Zonkers,Midwest,2012,4,16,4128
+Mature,Lunchtime,Yellow Zonkers,Midwest,2012,5,9,2322
+Mature,Lunchtime,Yellow Zonkers,Midwest,2012,5,24,6192
+Mature,Lunchtime,Yellow Zonkers,Midwest,2012,6,2,516
+Mature,Lunchtime,Yellow Zonkers,Midwest,2012,9,6,1548
+Mature,Lunchtime,Yellow Zonkers,Midwest,2012,9,20,5160
+Mature,Lunchtime,Yellow Zonkers,Midwest,2012,12,11,2838
+Mature,Lunchtime,Yellow Zonkers,Midwest,2013,1,53,2069
+Mature,Lunchtime,Yellow Zonkers,Midwest,2013,2,7,1519
+Mature,Lunchtime,Yellow Zonkers,Midwest,2013,3,48,552
+Mature,Lunchtime,Yellow Zonkers,Midwest,2013,5,12,1272
+Mature,Lunchtime,Yellow Zonkers,Midwest,2013,5,26,530
+Mature,Lunchtime,Yellow Zonkers,Midwest,2013,9,36,288
+Mature,Lunchtime,Yellow Zonkers,Midwest,2013,10,34,1294
+Mature,Lunchtime,Yellow Zonkers,Midwest,2014,4,24,6312
+Mature,Lunchtime,Yellow Zonkers,Midwest,2014,5,24,6312
+Mature,Lunchtime,Yellow Zonkers,Midwest,2014,6,17,4471
+Mature,Lunchtime,Yellow Zonkers,Midwest,2014,7,2,526
+Mature,Lunchtime,Yellow Zonkers,Midwest,2014,7,6,1578
+Mature,Lunchtime,Yellow Zonkers,Midwest,2014,8,10,2630
+Mature,Lunchtime,Yellow Zonkers,Midwest,2014,9,28,7364
+Mature,Lunchtime,Yellow Zonkers,Midwest,2014,11,12,3156
+Mature,Lunchtime,Yellow Zonkers,Southeast,2012,1,22,5676
+Mature,Lunchtime,Yellow Zonkers,Southeast,2012,3,16,4128
+Mature,Lunchtime,Yellow Zonkers,Southeast,2012,4,26,6708
+Mature,Lunchtime,Yellow Zonkers,Southeast,2012,6,22,5676
+Mature,Lunchtime,Yellow Zonkers,Southeast,2012,7,32,8256
+Mature,Lunchtime,Yellow Zonkers,Southeast,2012,8,18,4644
+Mature,Lunchtime,Yellow Zonkers,Southeast,2012,8,29,7482
+Mature,Lunchtime,Yellow Zonkers,Southeast,2012,9,13,3354
+Mature,Lunchtime,Yellow Zonkers,Southeast,2012,11,21,5418
+Mature,Lunchtime,Yellow Zonkers,Southeast,2012,11,24,6192
+Mature,Lunchtime,Yellow Zonkers,Southeast,2012,12,37,9546
+Mature,Lunchtime,Yellow Zonkers,Southeast,2013,3,33,1041
+Mature,Lunchtime,Yellow Zonkers,Southeast,2013,4,21,2541
+Mature,Lunchtime,Yellow Zonkers,Southeast,2013,5,52,556
+Mature,Lunchtime,Yellow Zonkers,Southeast,2013,8,24,1536
+Mature,Lunchtime,Yellow Zonkers,Southeast,2013,10,34,538
+Mature,Lunchtime,Yellow Zonkers,Southeast,2013,10,43,1303
+Mature,Lunchtime,Yellow Zonkers,Southeast,2013,10,45,2565
+Mature,Lunchtime,Yellow Zonkers,Southeast,2013,11,24,1032
+Mature,Lunchtime,Yellow Zonkers,Southeast,2014,4,24,6312
+Mature,Lunchtime,Yellow Zonkers,Southeast,2014,9,40,9468
+Mature,Lunchtime,Yellow Zonkers,Southeast,2014,10,27,7101
+Mature,Lunchtime,Yellow Zonkers,Southeast,2014,12,19,4997
+Mature,Lunchtime,Yellow Zonkers,Southeast,2014,12,52,12308
+Mature,Lunchtime,Yellow Zonkers,Western,2012,1,10,2580
+Mature,Lunchtime,Yellow Zonkers,Western,2012,1,11,2838
+Mature,Lunchtime,Yellow Zonkers,Western,2012,3,9,2322
+Mature,Lunchtime,Yellow Zonkers,Western,2012,3,14,3612
+Mature,Lunchtime,Yellow Zonkers,Western,2012,3,21,5418
+Mature,Lunchtime,Yellow Zonkers,Western,2012,5,28,7224
+Mature,Lunchtime,Yellow Zonkers,Western,2012,6,39,10062
+Mature,Lunchtime,Yellow Zonkers,Western,2012,8,13,3354
+Mature,Lunchtime,Yellow Zonkers,Western,2012,8,16,4128
+Mature,Lunchtime,Yellow Zonkers,Western,2012,8,39,10062
+Mature,Lunchtime,Yellow Zonkers,Western,2012,9,28,7224
+Mature,Lunchtime,Yellow Zonkers,Western,2012,9,40,10320
+Mature,Lunchtime,Yellow Zonkers,Western,2012,11,23,5934
+Mature,Lunchtime,Yellow Zonkers,Western,2012,12,37,9546
+Mature,Lunchtime,Yellow Zonkers,Western,2013,1,29,1793
+Mature,Lunchtime,Yellow Zonkers,Western,2013,2,19,2287
+Mature,Lunchtime,Yellow Zonkers,Western,2013,4,30,282
+Mature,Lunchtime,Yellow Zonkers,Western,2013,4,45,297
+Mature,Lunchtime,Yellow Zonkers,Western,2013,6,54,1566
+Mature,Lunchtime,Yellow Zonkers,Western,2013,8,8,1016
+Mature,Lunchtime,Yellow Zonkers,Western,2013,8,28,532
+Mature,Lunchtime,Yellow Zonkers,Western,2013,10,24,2292
+Mature,Lunchtime,Yellow Zonkers,Western,2013,12,42,2310
+Mature,Lunchtime,Yellow Zonkers,Western,2014,1,15,3945
+Mature,Lunchtime,Yellow Zonkers,Western,2014,1,57,13492
+Mature,Lunchtime,Yellow Zonkers,Western,2014,3,17,4471
+Mature,Lunchtime,Yellow Zonkers,Western,2014,4,2,526
+Mature,Lunchtime,Yellow Zonkers,Western,2014,4,2,526
+Mature,Lunchtime,Yellow Zonkers,Western,2014,4,22,5786
+Mature,Lunchtime,Yellow Zonkers,Western,2014,4,36,9468
+Mature,Lunchtime,Yellow Zonkers,Western,2014,6,31,8153
+Mature,Lunchtime,Yellow Zonkers,Western,2014,7,4,1052
+Mature,Lunchtime,Yellow Zonkers,Western,2014,7,42,9941
+Mature,Lunchtime,Yellow Zonkers,Western,2014,8,12,3156
+Mature,Lunchtime,Yellow Zonkers,Western,2014,9,10,2630
+Mature,Lunchtime,Yellow Zonkers,Western,2014,9,44,10415
+Mature,Lunchtime,Yellow Zonkers,Western,2014,9,52,12308
+Mature,Lunchtime,Yellow Zonkers,Western,2014,10,55,13018
+Mature,Lunchtime,Yellow Zonkers,Western,2014,11,37,8758
+Mature,Lunchtime,Yellow Zonkers,Western,2014,12,2,526
+Mature,Lunchtime,Yellow Zonkers,Western,2014,12,19,4997
